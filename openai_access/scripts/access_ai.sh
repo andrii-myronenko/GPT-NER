@@ -1,14 +1,14 @@
-SOURCEDIR="/data2/wangshuhe/gpt3_ner/gpt3-data/conll_mrc/"
-SOURCENAME="test.100"
-DATANAME="CONLL"
-EXAMPLEDIR="/data2/wangshuhe/gpt3_ner/gpt3-data/conll_mrc/"
-EXAMPLENAME="test.100.simcse.32"
-EXAMPLENUM=8
-WRITEDIR="/data2/wangshuhe/gpt3_ner/gpt3-data/conll_mrc/100-results"
-WRITENAME="tmp.test"
-TRAINNAME="train.dev"
+SOURCEDIR="/home/andrii//VSCodeWorkspace/GPT-NER/gpt-4-skills/input/"
+SOURCENAME="selected.test.house"
+TRAINNAME="train.house"
+DATANAME="SKILLSPAN"
+EXAMPLEDIR="/home/andrii//VSCodeWorkspace/GPT-NER/gpt-4-skills/example/"
+EXAMPLENAME="selected.train.house"
+EXAMPLENUM=4
+WRITEDIR="/home/andrii//VSCodeWorkspace/GPT-NER/gpt-4-skills/output/"
+WRITENAME="house.4.knn"
 
-python ./get_results_mrc_knn.py \
+python ../get_results_mrc_knn.py \
     --source-dir $SOURCEDIR --source-name $SOURCENAME \
     --data-name $DATANAME --example-dir $EXAMPLEDIR \
     --example-name $EXAMPLENAME \

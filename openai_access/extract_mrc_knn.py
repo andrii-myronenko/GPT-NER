@@ -8,7 +8,7 @@ import random
 
 def read_feature(dir_, prefix):
     info_file = json.load(open(os.path.join(dir_, f"{prefix}.start_word_feature_info.json")))
-    features = np.memmap(os.path.join(dir_, f"{prefix}.start_word_feature.npy"), 
+    features = np.memmap(os.path.join(dir_, f"{prefix}.start_word_feature.npy"),
                          dtype=np.float32,
                          mode="r",
                          shape=(info_file["entity_num"], info_file["hidden_size"]))
@@ -58,7 +58,7 @@ def compute_mrc_knn(test_info, test_features, train_info, train_features, train_
     return example_idx, example_value
 
 def compute_simcse_knn(test_mrc_data, train_mrc_data, knn_num, test_index=None):
-    sim_model = SimCSE("/data2/wangshuhe/gpt3_ner/models/sup-simcse-roberta-large")
+    sim_model = SimCSE("princeton-nlp/sup-simcse-bert-base-uncased")
 
     train_sentence = {}
     train_sentence_index = {}
@@ -74,9 +74,10 @@ def compute_simcse_knn(test_mrc_data, train_mrc_data, knn_num, test_index=None):
         if label not in train_sentence:
             train_sentence[label] = []
             train_sentence_index[label] = []
-        train_sentence[label].append(context)
-        train_sentence_index[label].append(idx_)
-    
+        if(len(item["span_position"]) > 0):
+            train_sentence[label].append(context)
+            train_sentence_index[label].append(idx_)
+
     train_index = {}
     for key, _ in train_sentence.items():
         embeddings = sim_model.encode(train_sentence[key], batch_size=128, normalize_to_unit=True, return_numpy=True)
@@ -102,7 +103,7 @@ def compute_simcse_knn(test_mrc_data, train_mrc_data, knn_num, test_index=None):
 
             example_idx.append([train_sentence_index[label][int(i)] for i in top_index[0]])
             example_value.append([float(value) for value in top_value[0]])
-        
+
         return example_idx, example_value
 
     for idx_, sub_index in enumerate(test_index):
@@ -116,7 +117,7 @@ def compute_simcse_knn(test_mrc_data, train_mrc_data, knn_num, test_index=None):
 
         example_idx.append([train_sentence_index[label][int(i)] for i in top_index[0]])
         example_value.append([float(value) for value in top_value[0]])
-    
+
     return example_idx, example_value
 
 def combine_full_knn(test_index, mrc_knn_index, simcse_knn_index):
@@ -138,7 +139,7 @@ def combine_full_knn(test_index, mrc_knn_index, simcse_knn_index):
             sub_results = sub_results[:knn_num]
             results.append(sub_results)
             mrc_idx += num
-    
+
     return results
 
 def random_knn(test_mrc_data, train_mrc_data, knn_num):
@@ -163,7 +164,7 @@ def random_knn(test_mrc_data, train_mrc_data, knn_num):
         random.shuffle(train_sentence_index[label])
 
         example_idx.append(train_sentence_index[label][:knn_num])
-    
+
     return example_idx, None
 
 def write_file(dir_, data):
@@ -228,7 +229,7 @@ if __name__ == '__main__':
     # index_, value_ = random_knn(test_mrc_data=test_mrc_data, train_mrc_data=train_mrc_data, knn_num=32)
     # write_file(dir_="/data2/wangshuhe/gpt3_ner/gpt3-data/conll_mrc/test.random.32.knn.jsonl", data=index_)
 
-    test_mrc_data = read_mrc_data(dir_="/data2/wangshuhe/gpt3_ner/gpt3-data/ontonotes5_mrc", prefix="test.100")
-    train_mrc_data = read_mrc_data(dir_="/data2/wangshuhe/gpt3_ner/gpt3-data/ontonotes5_mrc", prefix="dev")
-    index_, value_ = compute_simcse_knn(test_mrc_data=test_mrc_data, train_mrc_data=train_mrc_data, knn_num=32)
-    write_file(dir_="/data2/wangshuhe/gpt3_ner/gpt3-data/ontonotes5_mrc/test.100.simcse.dev.32.knn.jsonl", data=index_)
+    test_mrc_data = read_mrc_data(dir_="/home/andrii//VSCodeWorkspace/GPT-NER/gpt-4-skills/input", prefix="selected.test.house")
+    train_mrc_data = read_mrc_data(dir_="/home/andrii//VSCodeWorkspace/GPT-NER/gpt-4-skills/input/", prefix="train.house")
+    index_, value_ = compute_simcse_knn(test_mrc_data=test_mrc_data, train_mrc_data=train_mrc_data, knn_num=4)
+    write_file(dir_="/home/andrii//VSCodeWorkspace/GPT-NER/gpt-4-skills/example/selected.train.house.knn.jsonl", data=index_)

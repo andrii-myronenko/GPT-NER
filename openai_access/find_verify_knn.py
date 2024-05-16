@@ -16,18 +16,18 @@ def read_word_feature(dir_, prefix, np_float=np.float16):
     info_file = json.load(open(os.path.join(dir_, f"{prefix}.word_feature_info.json"), "r"))
     token_num = info_file["token_sum"]
     hidden_size = info_file["hidden_size"]
-    
+
     index_list = []
     index_file = open(os.path.join(dir_, f"{prefix}.word_feature_index.json"))
     for line in index_file:
         index_list.append(json.loads(line.strip()))
     index_file.close()
 
-    features = np.memmap(os.path.join(dir_, f"{prefix}.word_feature.npy"), 
+    features = np.memmap(os.path.join(dir_, f"{prefix}.word_feature.npy"),
                          dtype=np_float,
                          mode="r",
                          shape=(token_num, hidden_size))
-    
+
     word_feature = {
         "info_file": info_file,
         "index_list": index_list,
@@ -43,21 +43,21 @@ def read_sentence_feature(dir_, prefix, np_float=np.float16):
     max_seq_len = info_file["max_seq_len"]
     hidden_size = info_file["hidden_size"]
 
-    start_mask = np.memmap(os.path.join(dir_, f"{prefix}.sentence_start_mask.npy"), 
+    start_mask = np.memmap(os.path.join(dir_, f"{prefix}.sentence_start_mask.npy"),
                          dtype=np.int32,
                          mode="r",
                          shape=(sentence_num, max_seq_len))
 
-    end_mask = np.memmap(os.path.join(dir_, f"{prefix}.sentence_end_mask.npy"), 
+    end_mask = np.memmap(os.path.join(dir_, f"{prefix}.sentence_end_mask.npy"),
                          dtype=np.int32,
                          mode="r",
                          shape=(sentence_num, max_seq_len))
 
-    features = np.memmap(os.path.join(dir_, f"{prefix}.sentence_feature.npy"), 
+    features = np.memmap(os.path.join(dir_, f"{prefix}.sentence_feature.npy"),
                          dtype=np_float,
                          mode="r",
                          shape=(sentence_num, max_seq_len, hidden_size))
-    
+
     sentence_feature = {
         "info_file": info_file,
         "start_mask": torch.from_numpy(start_mask),
@@ -82,7 +82,7 @@ def find_knn(mrc_training_set, training_word_features, gpt3_results, test_senten
     training_sentence = []
     for item in mrc_training_set:
         training_sentence.append((item["context"].strip(), item["entity_label"].strip()))
-    
+
     def get_words(labeled_sentence):
         word_list = []
         words = labeled_sentence.strip().split()
@@ -96,7 +96,7 @@ def find_knn(mrc_training_set, training_word_features, gpt3_results, test_senten
                 word_list.append((" ".join(words[last_:idx_+1])[2:-2], last_))
                 flag = False
         return word_list
-    
+
     def extract_training_sentence(index_line):
         sentence_idx, word_start, word_len = index_line
         sentence = training_sentence[sentence_idx][0]
@@ -109,7 +109,7 @@ def find_knn(mrc_training_set, training_word_features, gpt3_results, test_senten
             start_ = mrc_training_set[sentence_idx]["start_position"][idx_]
             end_ = mrc_training_set[sentence_idx]["end_position"][idx_]
             real_entity_list[" ".join(word_list[start_:end_+1])] = start_
-        
+
         flag = False
         if word in real_entity_list and real_entity_list[word] == word_start:
             flag = True
@@ -122,10 +122,10 @@ def find_knn(mrc_training_set, training_word_features, gpt3_results, test_senten
         now_test_sentence_start = test_sentence_features["start_mask"][item_idx]
         now_test_sentence_end = test_sentence_features["end_mask"][item_idx]
         now_test_feature = test_sentence_features["features"][item_idx]
-        
+
         start_seq_len = now_test_sentence_start.shape[0]
         end_seq_len = now_test_sentence_end.shape[0]
-        
+
         start_idx = 0
         word_index = 0
         for idx_, entity in enumerate(entity_list):
@@ -151,7 +151,7 @@ def find_knn(mrc_training_set, training_word_features, gpt3_results, test_senten
                         break
                 start_idx += 1
                 word_index += 1
-            
+
             sub_results = []
             if embedding is not None:
                 # token_num
@@ -164,7 +164,7 @@ def find_knn(mrc_training_set, training_word_features, gpt3_results, test_senten
                     start_sim = end_sim
                 cosine_similarity = torch.cat(cosine_similarity, dim=-1).view(-1)
                 top_k_value, top_k_index = torch.topk(cosine_similarity, k=knn_num, dim=-1) # search_k
-                
+
                 top_k_index = top_k_index.view(-1).cpu().numpy()
                 for knn_idx in range(knn_num):
                     index_line = training_word_features["index_list"][top_k_index[knn_idx]]
@@ -172,7 +172,7 @@ def find_knn(mrc_training_set, training_word_features, gpt3_results, test_senten
 
                     sub_results.append((extracted_sentence, extracted_word, extracted_label, extracted_flag))
             knn_results.append(sub_results)
-    
+
     return knn_results
 
 def write_file(file_name, data):

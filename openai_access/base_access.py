@@ -5,7 +5,7 @@ import time
 from math import ceil
 from typing import List
 
-import openai
+from openai import OpenAI
 from tqdm import tqdm
 
 from logger import get_logger
@@ -28,30 +28,27 @@ class AccessBase(object):
         self.presence_penalty = presence_penalty
         self.best_of = best_of
 
-    def _get_multiple_sample(self, prompt_list: List[str]):
-        openai.api_key = os.environ["OPENAI_API_KEY"]
-        response = openai.Completion.create(
-            engine=self.engine,
-            prompt=prompt_list,
-            temperature=self.temperature,
-            max_tokens=self.max_tokens,
-            top_p=self.top_p,
-            frequency_penalty=self.frequency_penalty,
-            presence_penalty=self.presence_penalty,
-            best_of=self.best_of
+    def _get_sample(self, prompt: str):
+        messages = {
+            "role": "user",
+            "content": prompt
+        }
+        client = OpenAI()
+        response = client.chat.completions.create(
+            model="gpt-4-0613",
+            messages=[messages]
         )
-        results = [choice.text for choice in response.choices]
+        results = [response.choices[0].message.content]
         # assert LOG_LEVEL == "INFO"
-        logger.info(msg="prompt_and_result", extra={"prompt_list": prompt_list, "results": results})
+        logger.info(msg="prompt_and_result", extra={"prompt": prompt, "results": results})
         return results
 
-    def get_multiple_sample(
+    def get_sample(
             self,
-            prompt_list: List[str],
+            prompt: str,
             jitter: bool = True,
     ):
 
-        errors: tuple = (openai.error.RateLimitError,)
         # Initialize variables
         num_retries = 0
 
@@ -63,10 +60,10 @@ class AccessBase(object):
                 for _ in tqdm(range(ceil(used_delay - 1)), desc=f"sleep{used_delay - 1}"):
                     time.sleep(1)
 
-                results = self._get_multiple_sample(prompt_list)
+                results = self._get_sample(prompt)
                 AccessBase.delay = INIT_DELAY
                 return results
-            except errors as e:
+            except e:
                 logger.info("retry ...")
                 # Increment retries
                 num_retries += 1

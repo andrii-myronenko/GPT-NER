@@ -23,7 +23,7 @@ def get_parser():
     parser.add_argument("--last-results", type=str, default="None", help="unfinished file")
     parser.add_argument("--write-dir", type=str, help="directory for the output")
     parser.add_argument("--write-name", type=str, help="file name for the output")
-    
+
     return parser
 
 def read_mrc_data(dir_, prefix="test"):
@@ -78,11 +78,11 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
             labels += " ".join(context_list[last_:])
 
             exampel_prompt += f"The given sentence: {context}\n"
-            
+
             # exampel_prompt += f"{prompt_label_name} entities: {labels}\n"
             exampel_prompt += f"The labeled sentence: {labels}\n"
         return exampel_prompt
-        
+
     results = []
     for item_idx in tqdm(range(len(mrc_data))):
 
@@ -96,7 +96,7 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
         prompt_label_name = transfered_label[0].upper() + transfered_label[1:]
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}, and if that does not exist output \"none\". Below are some examples.\n"
         # prompt = f"I want to extract {transfered_label} entities that {sub_prompt}. Below are some examples.\n"
-        prompt = f"You are an excellent linguist. Within the OntoNotes5.0 dataset, the task is to label {transfered_label} entities that {sub_prompt}. Below are some examples, and you should make the same prediction as the examples.\n"
+        prompt = f"You are a top-notch linguist and data labeler. Within the SkillSpan dataset, the task is to analyze a sentence from a job posting and label {transfered_label} entities that {sub_prompt} Make not to include irrelevant, company-specific information. Below are some examples, and you should make the same prediction as the examples.\n"
         # prompt = f"You are an excellent linguist. The task is to label {transfered_label} entities in the given sentence. {prompt_label_name} entities {sub_prompt}. Noted that if the given sentence does not contain any {transfered_label} entities, just output the same sentence, or surround the extracted entities by @@ and ## if there exist {transfered_label} entities. Below are some examples."
         # prompt = f"You are an excellent linguistic. The task is to label {transfered_label} entities that {sub_prompt}. First, articulate the clues and reasoning process for determining {transfered_label} entities in the sentence. Next, based on the clues and your reasoning process, label {transfered_label} entities in the sentence. Below are some examples.\n"
 
@@ -114,17 +114,17 @@ def mrc2prompt(mrc_data, data_name="CONLL", example_idx=None, train_mrc_data=Non
 
         # print(prompt)
         results.append(prompt)
-    
+
     return results
 
-def ner_access(openai_access, ner_pairs, batch=16):
+def ner_access(openai_access, ner_pairs):
     print("tagging ...")
     results = []
     start_ = 0
     pbar = tqdm(total=len(ner_pairs))
     while start_ < len(ner_pairs):
-        end_ = min(start_+batch, len(ner_pairs))
-        results = results + openai_access.get_multiple_sample(ner_pairs[start_:end_])
+        end_ = min(start_+1, len(ner_pairs))
+        results = results + openai_access.get_sample(ner_pairs[start_:end_][0])
         pbar.update(end_-start_)
         start_ = end_
     pbar.close()
@@ -141,7 +141,7 @@ def write_file(labels, dir_, last_name):
 
 def test():
     openai_access = AccessBase(
-        engine="text-davinci-003",
+        engine="gpt-4-0613",
         temperature=0.0,
         max_tokens=512,
         top_p=1,
@@ -156,7 +156,6 @@ def test():
 
     prompts = mrc2prompt(mrc_data=ner_test, data_name="CONLL", example_idx=example_idx, train_mrc_data=mrc_train, example_num=4)
     results = ner_access(openai_access=openai_access, ner_pairs=prompts, batch=16)
-    print(results)
 
 if __name__ == '__main__':
     # test()
@@ -165,7 +164,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     openai_access = AccessBase(
-        engine="text-davinci-003",
+        engine="gpt-4",
         temperature=0.0,
         max_tokens=512,
         top_p=1,
@@ -183,6 +182,10 @@ if __name__ == '__main__':
         last_results = read_results(dir_=args.last_results)
 
     prompts = mrc2prompt(mrc_data=ner_test, data_name=args.data_name, example_idx=example_idx, train_mrc_data=mrc_train, example_num=args.example_num, last_results=last_results)
-    results = ner_access(openai_access=openai_access, ner_pairs=prompts, batch=4)
+    # results = ner_access(openai_access=openai_access, ner_pairs=prompts)
+    import json
+
+    with open("get_results_prompts.json", "w") as outfile:
+        json.dump(prompts, outfile)
     # print(results)
     write_file(results, args.write_dir, args.write_name)

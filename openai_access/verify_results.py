@@ -25,7 +25,7 @@ def get_parser():
     parser.add_argument("--write-dir", type=str, help="directory for the output")
     parser.add_argument("--write-name", type=str, help="file name for the output")
     parser.add_argument("--knn-num", type=int, default=1, help="numebr for the knn")
-    
+
     return parser
 
 def read_mrc_data(dir_, prefix="test"):
@@ -65,7 +65,7 @@ def transferPrompt(mrc_data, gpt_results, data_name="CONLL", knn_results=None, k
                 word_list.append((" ".join(words[last_:idx_+1])[2:-2], last_))
                 flag = False
         return word_list
-    
+
     def get_knn(index_, test_label):
         if len(knn_results[index_]) == 0:
             return None
@@ -74,8 +74,8 @@ def transferPrompt(mrc_data, gpt_results, data_name="CONLL", knn_results=None, k
             transfered_label = FULL_DATA[data_name][knn_label][0]
             answer = "Yes" if transfered_label == test_label and knn_flag else "No"
 
-            prompt += f"The given sentence: {sentence}\nIs the word \"{word}\" in the given sentence an {test_label} entity? Please answer with yes or no.\n{answer}\n\n"
-        
+            prompt += f"The given sentence: {sentence}\nIs the phrase \"{word}\" in the given sentence a {test_label} entity? Please answer with yes or no.\n{answer}\n\n"
+
         return prompt
 
     prompts = []
@@ -96,9 +96,9 @@ def transferPrompt(mrc_data, gpt_results, data_name="CONLL", knn_results=None, k
         prompts_num = 0
         for entity, entity_idx in entity_list:
             # prompt = f"{context}\nIs the word \"{entity}\" in the former sentence an {transfered_label} entity? Please answer with yes or no."
-            prompt = f"You are an excellent linguist. The task is to verify whether the word is an {transfered_label} entity extracted from the given sentence. {upper_transfered_label} entities {sub_prompt}.\n\n"
+            prompt = f"You are an excellent linguist. The task is to verify whether the word is a {transfered_label} entity extracted from the given sentence. {upper_transfered_label} entities {sub_prompt}\n\n"
             if knn_results is None:
-                prompt += f"The given sentence: {context}\nIs the word \"{entity}\" in the given sentence an {transfered_label} entity? Please answer with yes or no.\n"
+                prompt += f"The given sentence: {context}\nIs the phrase \"{entity}\" in the given sentence a {transfered_label} entity? Please answer with yes or no.\n"
                 prompts.append(prompt)
                 entity_index.append((entity_idx, len(entity.strip().split())))
                 prompts_num += 1
@@ -107,7 +107,7 @@ def transferPrompt(mrc_data, gpt_results, data_name="CONLL", knn_results=None, k
                 if knn_prompt != "":
                     knn_idx += 1
                     prompt += knn_prompt
-                    prompt += f"The given sentence: {context}\nIs the word \"{entity}\" in the given sentence a {transfered_label} entity? Please answer with yes or no.\n"
+                    prompt += f"The given sentence: {context}\nIs the phrase \"{entity}\" in the given sentence a {transfered_label} entity? Please answer with yes or no.\n"
                     prompts.append(prompt)
                     entity_index.append((entity_idx, len(entity.strip().split())))
                     prompts_num += 1
@@ -115,14 +115,14 @@ def transferPrompt(mrc_data, gpt_results, data_name="CONLL", knn_results=None, k
         prompts_nums.append(prompts_num)
     return prompts, entity_index, prompts_nums
 
-def ner_access(openai_access, prompts, batch=16):
+def ner_access(openai_access, prompts):
     print("accessing ...")
     results = []
     start_ = 0
     pbar = tqdm(total=len(prompts))
     while start_ < len(prompts):
-        end_ = min(start_+batch, len(prompts))
-        results = results + openai_access.get_multiple_sample(prompts[start_:end_])
+        end_ = min(start_+1, len(prompts))
+        results = results + openai_access.get_sample(prompts[start_:end_][0])
         pbar.update(end_-start_)
         start_ = end_
     pbar.close()
@@ -169,7 +169,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     openai_access = AccessBase(
-        engine="text-davinci-003",
+        engine="gpt-4-0613",
         temperature=0.0,
         max_tokens=512,
         top_p=1,
@@ -186,7 +186,7 @@ if __name__ == '__main__':
         knn_results = read_knn_file(file_name=args.knn_file)
 
     prompts, entity_idx, prompts_nums = transferPrompt(mrc_data=mrc_test, gpt_results=gpt_results, data_name=args.data_name, knn_results=knn_results, knn_num=args.knn_num)
-    verify_results = ner_access(openai_access=openai_access, prompts=prompts, batch=1)
+    verify_results = ner_access(openai_access=openai_access, prompts=prompts)
     final_results = construct_results(gpt_results=gpt_results, entity_index=entity_idx, prompts_num=prompts_nums, verify_results=verify_results)
 
     # print(final_results)

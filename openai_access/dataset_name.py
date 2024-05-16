@@ -60,5 +60,9 @@ FULL_DATA = {
         "PER": ("PER", "人名和虚构的人物形象"),
         "GPE": ("GPE", "按照国家,城市,州县划分的地理区域"),
         "ORG": ("ORG", "组织包括公司,政府党派,学校,政府,新闻机构"),
+    },
+    "SKILLSPAN": {
+        "SKL": ("skill", "are indicated by a verb or an adjective-noun combination, reflecting an executable ability or a specific way of performing a task."),
+        "KNG": ("knowledge", "refer to non-executable information that an individual possesses, often indicated by specific fields, industries, or certifications, and is distinct from direct action or skills.")
     }
 }

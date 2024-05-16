@@ -1,0 +1,5171 @@
+[
+    {
+        "context": "Ensure on-going health and stability of pipelines across multiple environments",
+        "entity_label": "SKL",
+        "qas_id": "8104.0",
+        "end_position": [
+            9
+        ],
+        "span_position": [
+            "0;9"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Ensure on-going health and stability of pipelines across multiple environments",
+        "entity_label": "KNG",
+        "qas_id": "8104.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type:",
+        "entity_label": "SKL",
+        "qas_id": "9135.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type:",
+        "entity_label": "KNG",
+        "qas_id": "9135.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "If you send us more data than required by labor code or if you want to cooperate under B2B contract data will be processed on consent expressed by sending a recruitment application .",
+        "entity_label": "SKL",
+        "qas_id": "8357.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "If you send us more data than required by labor code or if you want to cooperate under B2B contract data will be processed on consent expressed by sending a recruitment application .",
+        "entity_label": "KNG",
+        "qas_id": "8357.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Entertainment:",
+        "entity_label": "SKL",
+        "qas_id": "10101.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Entertainment:",
+        "entity_label": "KNG",
+        "qas_id": "10101.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Learning & Development Resources",
+        "entity_label": "SKL",
+        "qas_id": "9042.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Learning & Development Resources",
+        "entity_label": "KNG",
+        "qas_id": "9042.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "IT or Engineering Bachelor / Master degree is a highly recommended",
+        "entity_label": "SKL",
+        "qas_id": "8666.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "IT or Engineering Bachelor / Master degree is a highly recommended",
+        "entity_label": "KNG",
+        "qas_id": "8666.1",
+        "end_position": [
+            6
+        ],
+        "span_position": [
+            "0;6"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Senior Software Engineer - . NET ( online comparison portal ) <ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "SKL",
+        "qas_id": "9268.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Senior Software Engineer - . NET ( online comparison portal ) <ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "KNG",
+        "qas_id": "9268.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Subsidized gym membership",
+        "entity_label": "SKL",
+        "qas_id": "10002.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Subsidized gym membership",
+        "entity_label": "KNG",
+        "qas_id": "10002.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2020-12-27",
+        "entity_label": "SKL",
+        "qas_id": "10145.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2020-12-27",
+        "entity_label": "KNG",
+        "qas_id": "10145.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Basic knowledge of Azure SQL and experience with SQL scripts",
+        "entity_label": "SKL",
+        "qas_id": "8112.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Basic knowledge of Azure SQL and experience with SQL scripts",
+        "entity_label": "KNG",
+        "qas_id": "8112.1",
+        "end_position": [
+            4,
+            9
+        ],
+        "span_position": [
+            "3;4",
+            "8;9"
+        ],
+        "start_position": [
+            3,
+            8
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description:",
+        "entity_label": "SKL",
+        "qas_id": "9209.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description:",
+        "entity_label": "KNG",
+        "qas_id": "9209.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Equipments",
+        "entity_label": "SKL",
+        "qas_id": "9725.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Equipments",
+        "entity_label": "KNG",
+        "qas_id": "9725.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "QA/Test Developer",
+        "entity_label": "SKL",
+        "qas_id": "8847.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "QA/Test Developer",
+        "entity_label": "KNG",
+        "qas_id": "8847.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "6 .",
+        "entity_label": "SKL",
+        "qas_id": "8368.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "6 .",
+        "entity_label": "KNG",
+        "qas_id": "8368.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Develop capabilities gain new skills and participate in Hackweek",
+        "entity_label": "SKL",
+        "qas_id": "10317.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Develop capabilities gain new skills and participate in Hackweek",
+        "entity_label": "KNG",
+        "qas_id": "10317.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have experience designing multi-threaded systems and algorithms",
+        "entity_label": "SKL",
+        "qas_id": "9235.0",
+        "end_position": [
+            7
+        ],
+        "span_position": [
+            "3;7"
+        ],
+        "start_position": [
+            3
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have experience designing multi-threaded systems and algorithms",
+        "entity_label": "KNG",
+        "qas_id": "9235.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type:",
+        "entity_label": "SKL",
+        "qas_id": "9007.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type:",
+        "entity_label": "KNG",
+        "qas_id": "9007.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "SKL",
+        "qas_id": "9050.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "KNG",
+        "qas_id": "9050.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-01-12",
+        "entity_label": "SKL",
+        "qas_id": "9875.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-01-12",
+        "entity_label": "KNG",
+        "qas_id": "9875.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: <INDUSTRY>",
+        "entity_label": "SKL",
+        "qas_id": "9053.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: <INDUSTRY>",
+        "entity_label": "KNG",
+        "qas_id": "9053.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Generous private healthcare",
+        "entity_label": "SKL",
+        "qas_id": "9554.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Generous private healthcare",
+        "entity_label": "KNG",
+        "qas_id": "9554.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "51\u2013200 people",
+        "entity_label": "SKL",
+        "qas_id": "9444.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "51\u2013200 people",
+        "entity_label": "KNG",
+        "qas_id": "9444.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Wellness Programs",
+        "entity_label": "SKL",
+        "qas_id": "8211.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Wellness Programs",
+        "entity_label": "KNG",
+        "qas_id": "8211.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "e-commerce open-source ruby-on-rails sql heroku",
+        "entity_label": "SKL",
+        "qas_id": "8290.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "e-commerce open-source ruby-on-rails sql heroku",
+        "entity_label": "KNG",
+        "qas_id": "8290.1",
+        "end_position": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "span_position": [
+            "0;0",
+            "1;1",
+            "2;2",
+            "3;3",
+            "4;4"
+        ],
+        "start_position": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "A brand new office space in the heart of <LOCATION>",
+        "entity_label": "SKL",
+        "qas_id": "9178.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "A brand new office space in the heart of <LOCATION>",
+        "entity_label": "KNG",
+        "qas_id": "9178.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "On-target bonus scheme based on company performance: we all work together to achieve our goals",
+        "entity_label": "SKL",
+        "qas_id": "8783.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "On-target bonus scheme based on company performance: we all work together to achieve our goals",
+        "entity_label": "KNG",
+        "qas_id": "8783.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "3 ) Get an opportunity to work on modernizing and transforming the platform into a cloud based Data Platform",
+        "entity_label": "SKL",
+        "qas_id": "8429.0",
+        "end_position": [
+            12
+        ],
+        "span_position": [
+            "8;12"
+        ],
+        "start_position": [
+            8
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "3 ) Get an opportunity to work on modernizing and transforming the platform into a cloud based Data Platform",
+        "entity_label": "KNG",
+        "qas_id": "8429.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Would you call this shared understanding \u201carchitecture\u201d?",
+        "entity_label": "SKL",
+        "qas_id": "8640.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Would you call this shared understanding \u201carchitecture\u201d?",
+        "entity_label": "KNG",
+        "qas_id": "8640.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We welcome all applications \u2013 regardless of gender nationality ethnic and social origin religion/belief disability age sexual orientation and identity .",
+        "entity_label": "SKL",
+        "qas_id": "9790.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We welcome all applications \u2013 regardless of gender nationality ethnic and social origin religion/belief disability age sexual orientation and identity .",
+        "entity_label": "KNG",
+        "qas_id": "9790.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size:",
+        "entity_label": "SKL",
+        "qas_id": "8537.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size:",
+        "entity_label": "KNG",
+        "qas_id": "8537.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Experience level: Mid-Level",
+        "entity_label": "SKL",
+        "qas_id": "8463.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Experience level: Mid-Level",
+        "entity_label": "KNG",
+        "qas_id": "8463.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We also provide powerful insights into the world by extracting information from satellite imagery fully automatically .",
+        "entity_label": "SKL",
+        "qas_id": "8275.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We also provide powerful insights into the world by extracting information from satellite imagery fully automatically .",
+        "entity_label": "KNG",
+        "qas_id": "8275.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "uncomplicated relationship: informal terms of address & no dresscode",
+        "entity_label": "SKL",
+        "qas_id": "9321.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "uncomplicated relationship: informal terms of address & no dresscode",
+        "entity_label": "KNG",
+        "qas_id": "9321.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Employee Stock Option Plan",
+        "entity_label": "SKL",
+        "qas_id": "8879.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Employee Stock Option Plan",
+        "entity_label": "KNG",
+        "qas_id": "8879.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You",
+        "entity_label": "SKL",
+        "qas_id": "8856.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You",
+        "entity_label": "KNG",
+        "qas_id": "8856.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We follow good XP practices like TDD BDD integration testing continuous integration and so on .",
+        "entity_label": "SKL",
+        "qas_id": "8822.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We follow good XP practices like TDD BDD integration testing continuous integration and so on .",
+        "entity_label": "KNG",
+        "qas_id": "8822.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry:",
+        "entity_label": "SKL",
+        "qas_id": "10162.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry:",
+        "entity_label": "KNG",
+        "qas_id": "10162.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "office in HD: job ticket by RNV & tram station next to our building",
+        "entity_label": "SKL",
+        "qas_id": "9325.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "office in HD: job ticket by RNV & tram station next to our building",
+        "entity_label": "KNG",
+        "qas_id": "9325.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": ". net microsoft-dynamics dynamics-365",
+        "entity_label": "SKL",
+        "qas_id": "9626.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": ". net microsoft-dynamics dynamics-365",
+        "entity_label": "KNG",
+        "qas_id": "9626.1",
+        "end_position": [
+            1,
+            2,
+            3
+        ],
+        "span_position": [
+            "0;1",
+            "2;2",
+            "3;3"
+        ],
+        "start_position": [
+            0,
+            2,
+            3
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "SKL",
+        "qas_id": "8914.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "KNG",
+        "qas_id": "8914.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Python",
+        "entity_label": "SKL",
+        "qas_id": "9838.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Python",
+        "entity_label": "KNG",
+        "qas_id": "9838.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "An eye for aesthetics design and faithful implementation",
+        "entity_label": "SKL",
+        "qas_id": "9468.0",
+        "end_position": [
+            4,
+            7
+        ],
+        "span_position": [
+            "1;4",
+            "6;7"
+        ],
+        "start_position": [
+            1,
+            6
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "An eye for aesthetics design and faithful implementation",
+        "entity_label": "KNG",
+        "qas_id": "9468.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "And in the same way the graph paradigm is changing and enriching the world of data we're looking for people who bring that same order-of-magnitude innovation to their work each day.",
+        "entity_label": "SKL",
+        "qas_id": "9267.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "And in the same way the graph paradigm is changing and enriching the world of data we're looking for people who bring that same order-of-magnitude innovation to their work each day.",
+        "entity_label": "KNG",
+        "qas_id": "9267.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "SKL",
+        "qas_id": "8466.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "KNG",
+        "qas_id": "8466.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We need your expertise to help us do something great for our travellers: make booking stays and journeys more sustainable and straightforward .",
+        "entity_label": "SKL",
+        "qas_id": "10177.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We need your expertise to help us do something great for our travellers: make booking stays and journeys more sustainable and straightforward .",
+        "entity_label": "KNG",
+        "qas_id": "10177.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "SKL",
+        "qas_id": "10005.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "KNG",
+        "qas_id": "10005.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our staff surveys show that we're committed to giving all employees autonomy so you can expect the freedom to prioritise your work .",
+        "entity_label": "SKL",
+        "qas_id": "8737.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our staff surveys show that we're committed to giving all employees autonomy so you can expect the freedom to prioritise your work .",
+        "entity_label": "KNG",
+        "qas_id": "8737.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "* \u2022 Understanding of architecture and design across all systems",
+        "entity_label": "SKL",
+        "qas_id": "8005.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "* \u2022 Understanding of architecture and design across all systems",
+        "entity_label": "KNG",
+        "qas_id": "8005.1",
+        "end_position": [
+            4,
+            6
+        ],
+        "span_position": [
+            "4;4",
+            "6;6"
+        ],
+        "start_position": [
+            4,
+            6
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Your impact will have no limit: together with our CTO and our founder <NAME> and the management team you will build the ground for our growth in the coming years and make sure our customers have an awesome experience with <ORGANIZATION> .",
+        "entity_label": "SKL",
+        "qas_id": "10045.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Your impact will have no limit: together with our CTO and our founder <NAME> and the management team you will build the ground for our growth in the coming years and make sure our customers have an awesome experience with <ORGANIZATION> .",
+        "entity_label": "KNG",
+        "qas_id": "10045.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You never smell like cigarettes and don\u2019t smoke during the day: <ORGANIZATION> is about healthy living",
+        "entity_label": "SKL",
+        "qas_id": "10079.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You never smell like cigarettes and don\u2019t smoke during the day: <ORGANIZATION> is about healthy living",
+        "entity_label": "KNG",
+        "qas_id": "10079.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We support global enterprises like the car rental company Sixt Swiss telecommunication provider Sunrise Communications or French tire manufacturer <ORGANIZATION> .",
+        "entity_label": "SKL",
+        "qas_id": "10011.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We support global enterprises like the car rental company Sixt Swiss telecommunication provider Sunrise Communications or French tire manufacturer <ORGANIZATION> .",
+        "entity_label": "KNG",
+        "qas_id": "10011.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Backend Developer",
+        "entity_label": "SKL",
+        "qas_id": "8475.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Backend Developer",
+        "entity_label": "KNG",
+        "qas_id": "8475.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "SKL",
+        "qas_id": "9881.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "KNG",
+        "qas_id": "9881.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Experience level: Mid-Level Senior",
+        "entity_label": "SKL",
+        "qas_id": "9342.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Experience level: Mid-Level Senior",
+        "entity_label": "KNG",
+        "qas_id": "9342.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "International Company: 15 locations offer an international career",
+        "entity_label": "SKL",
+        "qas_id": "9407.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "International Company: 15 locations offer an international career",
+        "entity_label": "KNG",
+        "qas_id": "9407.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You are joining us at an early stage so we want you to benefit from the success of the company and therefore offer you a competitive compensation package ( salary benefits and virtual shares) .",
+        "entity_label": "SKL",
+        "qas_id": "8510.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You are joining us at an early stage so we want you to benefit from the success of the company and therefore offer you a competitive compensation package ( salary benefits and virtual shares) .",
+        "entity_label": "KNG",
+        "qas_id": "8510.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "SKL",
+        "qas_id": "9121.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "KNG",
+        "qas_id": "9121.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Information Technology Online Travel",
+        "entity_label": "SKL",
+        "qas_id": "10163.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Information Technology Online Travel",
+        "entity_label": "KNG",
+        "qas_id": "10163.1",
+        "end_position": [
+            1,
+            3
+        ],
+        "span_position": [
+            "0;1",
+            "2;3"
+        ],
+        "start_position": [
+            0,
+            2
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 BS/BA degree or equivalent experience",
+        "entity_label": "SKL",
+        "qas_id": "8163.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 BS/BA degree or equivalent experience",
+        "entity_label": "KNG",
+        "qas_id": "8163.1",
+        "end_position": [
+            2
+        ],
+        "span_position": [
+            "1;2"
+        ],
+        "start_position": [
+            1
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Maternity Paternity and Shared Parental Leave",
+        "entity_label": "SKL",
+        "qas_id": "9676.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Maternity Paternity and Shared Parental Leave",
+        "entity_label": "KNG",
+        "qas_id": "9676.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technologies",
+        "entity_label": "SKL",
+        "qas_id": "8246.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technologies",
+        "entity_label": "KNG",
+        "qas_id": "8246.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 Very good understanding of test automation frameworks .",
+        "entity_label": "SKL",
+        "qas_id": "9840.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 Very good understanding of test automation frameworks .",
+        "entity_label": "KNG",
+        "qas_id": "9840.1",
+        "end_position": [
+            7
+        ],
+        "span_position": [
+            "5;7"
+        ],
+        "start_position": [
+            5
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "On-site fitness options and on-demand virtual wellness classes",
+        "entity_label": "SKL",
+        "qas_id": "10320.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "On-site fitness options and on-demand virtual wellness classes",
+        "entity_label": "KNG",
+        "qas_id": "10320.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "SKL",
+        "qas_id": "9887.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "KNG",
+        "qas_id": "9887.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full Stack Developer",
+        "entity_label": "SKL",
+        "qas_id": "9504.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full Stack Developer",
+        "entity_label": "KNG",
+        "qas_id": "9504.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "*",
+        "entity_label": "SKL",
+        "qas_id": "9086.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "*",
+        "entity_label": "KNG",
+        "qas_id": "9086.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We believe in",
+        "entity_label": "SKL",
+        "qas_id": "8319.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We believe in",
+        "entity_label": "KNG",
+        "qas_id": "8319.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type:",
+        "entity_label": "SKL",
+        "qas_id": "8415.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type:",
+        "entity_label": "KNG",
+        "qas_id": "8415.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our office is the \u201cmembers only\u201d",
+        "entity_label": "SKL",
+        "qas_id": "8885.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our office is the \u201cmembers only\u201d",
+        "entity_label": "KNG",
+        "qas_id": "8885.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Reporting the results",
+        "entity_label": "SKL",
+        "qas_id": "9767.0",
+        "end_position": [
+            2
+        ],
+        "span_position": [
+            "0;2"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Reporting the results",
+        "entity_label": "KNG",
+        "qas_id": "9767.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have the opportunity to share your knowledge locally with your team as well as internationally with the entire <ORGANIZATION> <ORGANIZATION> at internal gatherings dojos and technology camps .",
+        "entity_label": "SKL",
+        "qas_id": "9371.0",
+        "end_position": [
+            7
+        ],
+        "span_position": [
+            "5;7"
+        ],
+        "start_position": [
+            5
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have the opportunity to share your knowledge locally with your team as well as internationally with the entire <ORGANIZATION> <ORGANIZATION> at internal gatherings dojos and technology camps .",
+        "entity_label": "KNG",
+        "qas_id": "9371.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We have a mix of different skills in our team .",
+        "entity_label": "SKL",
+        "qas_id": "9245.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We have a mix of different skills in our team .",
+        "entity_label": "KNG",
+        "qas_id": "9245.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Your Tasks",
+        "entity_label": "SKL",
+        "qas_id": "9450.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Your Tasks",
+        "entity_label": "KNG",
+        "qas_id": "9450.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Collaborate:",
+        "entity_label": "SKL",
+        "qas_id": "8495.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Collaborate:",
+        "entity_label": "KNG",
+        "qas_id": "8495.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description",
+        "entity_label": "SKL",
+        "qas_id": "8630.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description",
+        "entity_label": "KNG",
+        "qas_id": "8630.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "and of course our",
+        "entity_label": "SKL",
+        "qas_id": "10128.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "and of course our",
+        "entity_label": "KNG",
+        "qas_id": "10128.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "In accordance with applicable law we make reasonable accommodations for applicants' and employees' religious practices and beliefs as well as any mental health or physical disability needs .",
+        "entity_label": "SKL",
+        "qas_id": "9113.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "In accordance with applicable law we make reasonable accommodations for applicants' and employees' religious practices and beliefs as well as any mental health or physical disability needs .",
+        "entity_label": "KNG",
+        "qas_id": "9113.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Backend Developer",
+        "entity_label": "SKL",
+        "qas_id": "9354.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Backend Developer",
+        "entity_label": "KNG",
+        "qas_id": "9354.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Free breakfast every day in one of cafeterias nearby our HQ",
+        "entity_label": "SKL",
+        "qas_id": "8336.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Free breakfast every day in one of cafeterias nearby our HQ",
+        "entity_label": "KNG",
+        "qas_id": "8336.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success .",
+        "entity_label": "SKL",
+        "qas_id": "9855.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success .",
+        "entity_label": "KNG",
+        "qas_id": "9855.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are selective \u2013 and only hire the best chess players cooks or video gamers ; ) Location:",
+        "entity_label": "SKL",
+        "qas_id": "10099.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are selective \u2013 and only hire the best chess players cooks or video gamers ; ) Location:",
+        "entity_label": "KNG",
+        "qas_id": "10099.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Collaborate with the other architects and senior devs on identifying managing and minimizing technical debt in the platform",
+        "entity_label": "SKL",
+        "qas_id": "10290.0",
+        "end_position": [
+            0,
+            14
+        ],
+        "span_position": [
+            "0;0",
+            "9;14"
+        ],
+        "start_position": [
+            0,
+            9
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Collaborate with the other architects and senior devs on identifying managing and minimizing technical debt in the platform",
+        "entity_label": "KNG",
+        "qas_id": "10290.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "javascript angular reactjs vue.js typescript",
+        "entity_label": "SKL",
+        "qas_id": "9448.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "javascript angular reactjs vue.js typescript",
+        "entity_label": "KNG",
+        "qas_id": "9448.1",
+        "end_position": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "span_position": [
+            "0;0",
+            "1;1",
+            "2;2",
+            "3;3",
+            "4;4"
+        ],
+        "start_position": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> is a family business with strong values .",
+        "entity_label": "SKL",
+        "qas_id": "10094.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> is a family business with strong values .",
+        "entity_label": "KNG",
+        "qas_id": "10094.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "SKL",
+        "qas_id": "8619.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "KNG",
+        "qas_id": "8619.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .",
+        "entity_label": "SKL",
+        "qas_id": "9379.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have a strong interest in the latest technologies and ideally you already have experience with back end development databases cloud computing RESTful API and big data in particular .",
+        "entity_label": "KNG",
+        "qas_id": "9379.1",
+        "end_position": [
+            8,
+            18,
+            19,
+            21,
+            23,
+            26
+        ],
+        "span_position": [
+            "7;8",
+            "16;18",
+            "19;19",
+            "20;21",
+            "22;23",
+            "25;26"
+        ],
+        "start_position": [
+            7,
+            16,
+            19,
+            20,
+            22,
+            25
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "SKL",
+        "qas_id": "7979.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "KNG",
+        "qas_id": "7979.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: <INDUSTRY>",
+        "entity_label": "SKL",
+        "qas_id": "8464.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: <INDUSTRY>",
+        "entity_label": "KNG",
+        "qas_id": "8464.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "SKL",
+        "qas_id": "9572.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "KNG",
+        "qas_id": "9572.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "- based templates etc. ) Familiarity with the following Azure services ( or equivalents from different cloud providers ) is a clear advantage: AppServices Redis ServiceBus Api Management CosmosDB KeyVault",
+        "entity_label": "SKL",
+        "qas_id": "8111.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "- based templates etc. ) Familiarity with the following Azure services ( or equivalents from different cloud providers ) is a clear advantage: AppServices Redis ServiceBus Api Management CosmosDB KeyVault",
+        "entity_label": "KNG",
+        "qas_id": "8111.1",
+        "end_position": [
+            2,
+            23,
+            24,
+            25,
+            27,
+            28,
+            29
+        ],
+        "span_position": [
+            "1;2",
+            "23;23",
+            "24;24",
+            "25;25",
+            "26;27",
+            "28;28",
+            "29;29"
+        ],
+        "start_position": [
+            1,
+            23,
+            24,
+            25,
+            26,
+            28,
+            29
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type:",
+        "entity_label": "SKL",
+        "qas_id": "9218.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type:",
+        "entity_label": "KNG",
+        "qas_id": "9218.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "background in web and/or e-commerce projects",
+        "entity_label": "SKL",
+        "qas_id": "9310.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "background in web and/or e-commerce projects",
+        "entity_label": "KNG",
+        "qas_id": "9310.1",
+        "end_position": [
+            4
+        ],
+        "span_position": [
+            "2;4"
+        ],
+        "start_position": [
+            2
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": ".",
+        "entity_label": "SKL",
+        "qas_id": "8976.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": ".",
+        "entity_label": "KNG",
+        "qas_id": "8976.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Visa sponsor Paid relocation",
+        "entity_label": "SKL",
+        "qas_id": "9134.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Visa sponsor Paid relocation",
+        "entity_label": "KNG",
+        "qas_id": "9134.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Documentation \u2013 both technical and non-technical",
+        "entity_label": "SKL",
+        "qas_id": "9527.0",
+        "end_position": [
+            0
+        ],
+        "span_position": [
+            "0;0"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Documentation \u2013 both technical and non-technical",
+        "entity_label": "KNG",
+        "qas_id": "9527.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We believe in #noestimates whiteboarding and great coffee .",
+        "entity_label": "SKL",
+        "qas_id": "8749.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We believe in #noestimates whiteboarding and great coffee .",
+        "entity_label": "KNG",
+        "qas_id": "8749.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Understanding of",
+        "entity_label": "SKL",
+        "qas_id": "8561.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Understanding of",
+        "entity_label": "KNG",
+        "qas_id": "8561.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "SKL",
+        "qas_id": "8814.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "KNG",
+        "qas_id": "8814.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "This is an exciting time to join us as you will have the opportunity to shape influence and innovate how we do things here at <ORGANIZATION>",
+        "entity_label": "SKL",
+        "qas_id": "9195.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "This is an exciting time to join us as you will have the opportunity to shape influence and innovate how we do things here at <ORGANIZATION>",
+        "entity_label": "KNG",
+        "qas_id": "9195.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Requirements",
+        "entity_label": "SKL",
+        "qas_id": "8498.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Requirements",
+        "entity_label": "KNG",
+        "qas_id": "8498.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Vitality health insurance and rewards scheme",
+        "entity_label": "SKL",
+        "qas_id": "8813.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Vitality health insurance and rewards scheme",
+        "entity_label": "KNG",
+        "qas_id": "8813.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": ". net microsoft-dynamics dynamics-365",
+        "entity_label": "SKL",
+        "qas_id": "9639.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": ". net microsoft-dynamics dynamics-365",
+        "entity_label": "KNG",
+        "qas_id": "9639.1",
+        "end_position": [
+            1,
+            2,
+            3
+        ],
+        "span_position": [
+            "0;1",
+            "2;2",
+            "3;3"
+        ],
+        "start_position": [
+            0,
+            2,
+            3
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "SKL",
+        "qas_id": "8201.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "KNG",
+        "qas_id": "8201.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Tuition Assistance",
+        "entity_label": "SKL",
+        "qas_id": "8450.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Tuition Assistance",
+        "entity_label": "KNG",
+        "qas_id": "8450.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "No matter what your plans for the winter holiday season our shop is closed between December and January .",
+        "entity_label": "SKL",
+        "qas_id": "8899.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "No matter what your plans for the winter holiday season our shop is closed between December and January .",
+        "entity_label": "KNG",
+        "qas_id": "8899.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "A chance to work with the latest tools and technology",
+        "entity_label": "SKL",
+        "qas_id": "9180.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "A chance to work with the latest tools and technology",
+        "entity_label": "KNG",
+        "qas_id": "9180.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: Agile Software Development Financial Technology",
+        "entity_label": "SKL",
+        "qas_id": "8612.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: Agile Software Development Financial Technology",
+        "entity_label": "KNG",
+        "qas_id": "8612.1",
+        "end_position": [
+            3,
+            5
+        ],
+        "span_position": [
+            "1;3",
+            "4;5"
+        ],
+        "start_position": [
+            1,
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technology at <ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "SKL",
+        "qas_id": "8192.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technology at <ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "KNG",
+        "qas_id": "8192.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Make an impact through volunteer opportunities and donation matching",
+        "entity_label": "SKL",
+        "qas_id": "10313.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Make an impact through volunteer opportunities and donation matching",
+        "entity_label": "KNG",
+        "qas_id": "10313.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Maternity and Paternity Leave Adoption Assistance",
+        "entity_label": "SKL",
+        "qas_id": "9035.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Maternity and Paternity Leave Adoption Assistance",
+        "entity_label": "KNG",
+        "qas_id": "9035.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Minimum of 3 years automation experience",
+        "entity_label": "SKL",
+        "qas_id": "9778.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Minimum of 3 years automation experience",
+        "entity_label": "KNG",
+        "qas_id": "9778.1",
+        "end_position": [
+            4
+        ],
+        "span_position": [
+            "4;4"
+        ],
+        "start_position": [
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-01-26",
+        "entity_label": "SKL",
+        "qas_id": "9048.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-01-26",
+        "entity_label": "KNG",
+        "qas_id": "9048.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "SKL",
+        "qas_id": "8609.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "KNG",
+        "qas_id": "8609.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry:",
+        "entity_label": "SKL",
+        "qas_id": "8929.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry:",
+        "entity_label": "KNG",
+        "qas_id": "8929.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "HTML5 CSS ( LESS) Bootstrap",
+        "entity_label": "SKL",
+        "qas_id": "9534.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "HTML5 CSS ( LESS) Bootstrap",
+        "entity_label": "KNG",
+        "qas_id": "9534.1",
+        "end_position": [
+            0,
+            3,
+            4
+        ],
+        "span_position": [
+            "0;0",
+            "1;3",
+            "4;4"
+        ],
+        "start_position": [
+            0,
+            1,
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Relevant Microsoft certifications .",
+        "entity_label": "SKL",
+        "qas_id": "9538.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Relevant Microsoft certifications .",
+        "entity_label": "KNG",
+        "qas_id": "9538.1",
+        "end_position": [
+            2
+        ],
+        "span_position": [
+            "1;2"
+        ],
+        "start_position": [
+            1
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our offer to you",
+        "entity_label": "SKL",
+        "qas_id": "8958.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our offer to you",
+        "entity_label": "KNG",
+        "qas_id": "8958.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "So as a skilled senior software engineer your sound tech experience of Agile/Lean methodologies will be vital for continuous improvement .",
+        "entity_label": "SKL",
+        "qas_id": "10173.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "So as a skilled senior software engineer your sound tech experience of Agile/Lean methodologies will be vital for continuous improvement .",
+        "entity_label": "KNG",
+        "qas_id": "10173.1",
+        "end_position": [
+            12
+        ],
+        "span_position": [
+            "12;12"
+        ],
+        "start_position": [
+            12
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "deploy apps to Heroku and/or AWS",
+        "entity_label": "SKL",
+        "qas_id": "8380.0",
+        "end_position": [
+            1
+        ],
+        "span_position": [
+            "0;1"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "deploy apps to Heroku and/or AWS",
+        "entity_label": "KNG",
+        "qas_id": "8380.1",
+        "end_position": [
+            3,
+            5
+        ],
+        "span_position": [
+            "3;3",
+            "5;5"
+        ],
+        "start_position": [
+            3,
+            5
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We encourage professional growth and career development and offer competitive benefits and compensation .",
+        "entity_label": "SKL",
+        "qas_id": "9104.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We encourage professional growth and career development and offer competitive benefits and compensation .",
+        "entity_label": "KNG",
+        "qas_id": "9104.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Software Architect Backend ( d/f/m ) <ORGANIZATION>",
+        "entity_label": "SKL",
+        "qas_id": "10264.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Software Architect Backend ( d/f/m ) <ORGANIZATION>",
+        "entity_label": "KNG",
+        "qas_id": "10264.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size:",
+        "entity_label": "SKL",
+        "qas_id": "9143.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size:",
+        "entity_label": "KNG",
+        "qas_id": "9143.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "performed code reviews for your teammates",
+        "entity_label": "SKL",
+        "qas_id": "8385.0",
+        "end_position": [
+            2
+        ],
+        "span_position": [
+            "0;2"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "performed code reviews for your teammates",
+        "entity_label": "KNG",
+        "qas_id": "8385.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "communicate fluently in English",
+        "entity_label": "SKL",
+        "qas_id": "8382.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "communicate fluently in English",
+        "entity_label": "KNG",
+        "qas_id": "8382.1",
+        "end_position": [
+            3
+        ],
+        "span_position": [
+            "3;3"
+        ],
+        "start_position": [
+            3
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have a degree Computer Science or equivalent experience",
+        "entity_label": "SKL",
+        "qas_id": "8257.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have a degree Computer Science or equivalent experience",
+        "entity_label": "KNG",
+        "qas_id": "8257.1",
+        "end_position": [
+            5
+        ],
+        "span_position": [
+            "4;5"
+        ],
+        "start_position": [
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "eCommerce Price Comparison Online Portal",
+        "entity_label": "SKL",
+        "qas_id": "9290.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "eCommerce Price Comparison Online Portal",
+        "entity_label": "KNG",
+        "qas_id": "9290.1",
+        "end_position": [
+            0,
+            2,
+            4
+        ],
+        "span_position": [
+            "0;0",
+            "1;2",
+            "3;4"
+        ],
+        "start_position": [
+            0,
+            1,
+            3
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> is searching for a talented junior programmer to support our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> .",
+        "entity_label": "SKL",
+        "qas_id": "8250.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> is searching for a talented junior programmer to support our <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> .",
+        "entity_label": "KNG",
+        "qas_id": "8250.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-03-25",
+        "entity_label": "SKL",
+        "qas_id": "8696.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-03-25",
+        "entity_label": "KNG",
+        "qas_id": "8696.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "PTO holidays sabbatical program and international travel insurance",
+        "entity_label": "SKL",
+        "qas_id": "10312.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "PTO holidays sabbatical program and international travel insurance",
+        "entity_label": "KNG",
+        "qas_id": "10312.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "A serious get-things-done attitude",
+        "entity_label": "SKL",
+        "qas_id": "10073.0",
+        "end_position": [
+            3
+        ],
+        "span_position": [
+            "2;3"
+        ],
+        "start_position": [
+            2
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "A serious get-things-done attitude",
+        "entity_label": "KNG",
+        "qas_id": "10073.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description:",
+        "entity_label": "SKL",
+        "qas_id": "8037.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description:",
+        "entity_label": "KNG",
+        "qas_id": "8037.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Software Engineer - Database - Java Core",
+        "entity_label": "SKL",
+        "qas_id": "9196.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Software Engineer - Database - Java Core",
+        "entity_label": "KNG",
+        "qas_id": "9196.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You won't be expected to have deep knowledge of our stack but you will be expected to help us make forward strides by applying yourself to learning .",
+        "entity_label": "SKL",
+        "qas_id": "8780.0",
+        "end_position": [
+            26
+        ],
+        "span_position": [
+            "23;26"
+        ],
+        "start_position": [
+            23
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You won't be expected to have deep knowledge of our stack but you will be expected to help us make forward strides by applying yourself to learning .",
+        "entity_label": "KNG",
+        "qas_id": "8780.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "SKL",
+        "qas_id": "9749.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "KNG",
+        "qas_id": "9749.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Design ( and documenting ) of own solutions or sub-sets of solutions",
+        "entity_label": "SKL",
+        "qas_id": "9523.0",
+        "end_position": [
+            7
+        ],
+        "span_position": [
+            "0;7"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Design ( and documenting ) of own solutions or sub-sets of solutions",
+        "entity_label": "KNG",
+        "qas_id": "9523.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "( Cypress for frontend is a must have pytest for backend and truffle for Solidity is a good addition) .",
+        "entity_label": "SKL",
+        "qas_id": "8870.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "( Cypress for frontend is a must have pytest for backend and truffle for Solidity is a good addition) .",
+        "entity_label": "KNG",
+        "qas_id": "8870.1",
+        "end_position": [
+            1,
+            8,
+            12,
+            14
+        ],
+        "span_position": [
+            "1;1",
+            "8;8",
+            "12;12",
+            "14;14"
+        ],
+        "start_position": [
+            1,
+            8,
+            12,
+            14
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Benefits:",
+        "entity_label": "SKL",
+        "qas_id": "9313.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Benefits:",
+        "entity_label": "KNG",
+        "qas_id": "9313.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Fluent in written and spoken English any additional language is a plus",
+        "entity_label": "SKL",
+        "qas_id": "8115.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Fluent in written and spoken English any additional language is a plus",
+        "entity_label": "KNG",
+        "qas_id": "8115.1",
+        "end_position": [
+            5
+        ],
+        "span_position": [
+            "5;5"
+        ],
+        "start_position": [
+            5
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "SKL",
+        "qas_id": "9567.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "KNG",
+        "qas_id": "9567.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type:",
+        "entity_label": "SKL",
+        "qas_id": "8236.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type:",
+        "entity_label": "KNG",
+        "qas_id": "8236.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Implementing new gameplay features and user interfaces based on game designs",
+        "entity_label": "SKL",
+        "qas_id": "9161.0",
+        "end_position": [
+            6
+        ],
+        "span_position": [
+            "0;6"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Implementing new gameplay features and user interfaces based on game designs",
+        "entity_label": "KNG",
+        "qas_id": "9161.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .",
+        "entity_label": "SKL",
+        "qas_id": "9975.0",
+        "end_position": [
+            5
+        ],
+        "span_position": [
+            "0;5"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Assure that our architectures are consistent with industry best practices including scalability availability maintainability and flexibility .",
+        "entity_label": "KNG",
+        "qas_id": "9975.1",
+        "end_position": [
+            9,
+            11,
+            12,
+            13,
+            15
+        ],
+        "span_position": [
+            "7;9",
+            "11;11",
+            "12;12",
+            "13;13",
+            "15;15"
+        ],
+        "start_position": [
+            7,
+            11,
+            12,
+            13,
+            15
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "SKL",
+        "qas_id": "8139.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "KNG",
+        "qas_id": "8139.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "DevOps",
+        "entity_label": "SKL",
+        "qas_id": "8089.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "DevOps",
+        "entity_label": "KNG",
+        "qas_id": "8089.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "hack on preferred stuff during regular hack days and events",
+        "entity_label": "SKL",
+        "qas_id": "9232.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "hack on preferred stuff during regular hack days and events",
+        "entity_label": "KNG",
+        "qas_id": "9232.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are best known for our story-driven puzzle game Lily\u2019s Garden the success of which has resulted in the launch of our most recent game Penny&Flo: Finding Home .",
+        "entity_label": "SKL",
+        "qas_id": "9192.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are best known for our story-driven puzzle game Lily\u2019s Garden the success of which has resulted in the launch of our most recent game Penny&Flo: Finding Home .",
+        "entity_label": "KNG",
+        "qas_id": "9192.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Location options:",
+        "entity_label": "SKL",
+        "qas_id": "9952.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Location options:",
+        "entity_label": "KNG",
+        "qas_id": "9952.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-02-10",
+        "entity_label": "SKL",
+        "qas_id": "8991.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Date posted: 2021-02-10",
+        "entity_label": "KNG",
+        "qas_id": "8991.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Financial Services",
+        "entity_label": "SKL",
+        "qas_id": "9891.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Financial Services",
+        "entity_label": "KNG",
+        "qas_id": "9891.1",
+        "end_position": [
+            1
+        ],
+        "span_position": [
+            "0;1"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "This framework is at an early stage of development which offers an opportunity for an experienced developer to help shape the key components of the product and create commercial opportunities for a new business initiative .",
+        "entity_label": "SKL",
+        "qas_id": "8001.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "This framework is at an early stage of development which offers an opportunity for an experienced developer to help shape the key components of the product and create commercial opportunities for a new business initiative .",
+        "entity_label": "KNG",
+        "qas_id": "8001.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Manage individual priorities deadlines and deliverables",
+        "entity_label": "SKL",
+        "qas_id": "10071.0",
+        "end_position": [
+            5
+        ],
+        "span_position": [
+            "0;5"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Manage individual priorities deadlines and deliverables",
+        "entity_label": "KNG",
+        "qas_id": "10071.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "SKL",
+        "qas_id": "8515.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "KNG",
+        "qas_id": "8515.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "2 ) Knowledge of public and private cloud offerings",
+        "entity_label": "SKL",
+        "qas_id": "8433.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "2 ) Knowledge of public and private cloud offerings",
+        "entity_label": "KNG",
+        "qas_id": "8433.1",
+        "end_position": [
+            8
+        ],
+        "span_position": [
+            "4;8"
+        ],
+        "start_position": [
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Bright and modern office space with relax zones and game room",
+        "entity_label": "SKL",
+        "qas_id": "8686.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Bright and modern office space with relax zones and game room",
+        "entity_label": "KNG",
+        "qas_id": "8686.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: Financial Services",
+        "entity_label": "SKL",
+        "qas_id": "9880.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Industry: Financial Services",
+        "entity_label": "KNG",
+        "qas_id": "9880.1",
+        "end_position": [
+            2
+        ],
+        "span_position": [
+            "1;2"
+        ],
+        "start_position": [
+            1
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .",
+        "entity_label": "SKL",
+        "qas_id": "8044.0",
+        "end_position": [
+            10,
+            27,
+            37
+        ],
+        "span_position": [
+            "4;10",
+            "22;27",
+            "33;37"
+        ],
+        "start_position": [
+            4,
+            22,
+            33
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You'll be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals .",
+        "entity_label": "KNG",
+        "qas_id": "8044.1",
+        "end_position": [
+            18
+        ],
+        "span_position": [
+            "16;18"
+        ],
+        "start_position": [
+            16
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Strong awareness of code quality and clean code",
+        "entity_label": "SKL",
+        "qas_id": "9465.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Strong awareness of code quality and clean code",
+        "entity_label": "KNG",
+        "qas_id": "9465.1",
+        "end_position": [
+            4,
+            7
+        ],
+        "span_position": [
+            "3;4",
+            "6;7"
+        ],
+        "start_position": [
+            3,
+            6
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Backend Developer",
+        "entity_label": "SKL",
+        "qas_id": "9959.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Backend Developer",
+        "entity_label": "KNG",
+        "qas_id": "9959.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description:",
+        "entity_label": "SKL",
+        "qas_id": "8530.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description:",
+        "entity_label": "KNG",
+        "qas_id": "8530.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "* BS/BA degree or equivalent experience",
+        "entity_label": "SKL",
+        "qas_id": "8048.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "* BS/BA degree or equivalent experience",
+        "entity_label": "KNG",
+        "qas_id": "8048.1",
+        "end_position": [
+            2
+        ],
+        "span_position": [
+            "1;2"
+        ],
+        "start_position": [
+            1
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Work-life balance:",
+        "entity_label": "SKL",
+        "qas_id": "9389.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Work-life balance:",
+        "entity_label": "KNG",
+        "qas_id": "9389.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Continuous learning will be an important part of your",
+        "entity_label": "SKL",
+        "qas_id": "9372.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Continuous learning will be an important part of your",
+        "entity_label": "KNG",
+        "qas_id": "9372.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You'll be working alongside frontend developers using React and the latest JavaScript frameworks .",
+        "entity_label": "SKL",
+        "qas_id": "8740.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You'll be working alongside frontend developers using React and the latest JavaScript frameworks .",
+        "entity_label": "KNG",
+        "qas_id": "8740.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "SKL",
+        "qas_id": "8455.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "KNG",
+        "qas_id": "8455.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "QA/Test Developer",
+        "entity_label": "SKL",
+        "qas_id": "9812.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "QA/Test Developer",
+        "entity_label": "KNG",
+        "qas_id": "9812.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Excellent Salary and pension",
+        "entity_label": "SKL",
+        "qas_id": "9552.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Excellent Salary and pension",
+        "entity_label": "KNG",
+        "qas_id": "9552.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Charitable Contribution Matching",
+        "entity_label": "SKL",
+        "qas_id": "9935.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Charitable Contribution Matching",
+        "entity_label": "KNG",
+        "qas_id": "9935.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "SKL",
+        "qas_id": "8033.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "KNG",
+        "qas_id": "8033.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are the market leading digital agency with focus on user experience in <LOCATION> <LOCATION> <LOCATION> with branch offices in <LOCATION> and <LOCATION> .",
+        "entity_label": "SKL",
+        "qas_id": "9483.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are the market leading digital agency with focus on user experience in <LOCATION> <LOCATION> <LOCATION> with branch offices in <LOCATION> and <LOCATION> .",
+        "entity_label": "KNG",
+        "qas_id": "9483.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technologies",
+        "entity_label": "SKL",
+        "qas_id": "8628.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technologies",
+        "entity_label": "KNG",
+        "qas_id": "8628.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Senior Java Software Engineer ( VP ) <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "SKL",
+        "qas_id": "9564.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Senior Java Software Engineer ( VP ) <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION>",
+        "entity_label": "KNG",
+        "qas_id": "9564.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "django postgresql redis",
+        "entity_label": "SKL",
+        "qas_id": "8477.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "django postgresql redis",
+        "entity_label": "KNG",
+        "qas_id": "8477.1",
+        "end_position": [
+            0,
+            1,
+            2
+        ],
+        "span_position": [
+            "0;0",
+            "1;1",
+            "2;2"
+        ],
+        "start_position": [
+            0,
+            1,
+            2
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job benefits: -",
+        "entity_label": "SKL",
+        "qas_id": "9611.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job benefits: -",
+        "entity_label": "KNG",
+        "qas_id": "9611.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Moto:",
+        "entity_label": "SKL",
+        "qas_id": "8645.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Moto:",
+        "entity_label": "KNG",
+        "qas_id": "8645.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You're someone who takes ownership and who tries to learn as much as possible .",
+        "entity_label": "SKL",
+        "qas_id": "8775.0",
+        "end_position": [
+            4,
+            13
+        ],
+        "span_position": [
+            "3;4",
+            "9;13"
+        ],
+        "start_position": [
+            3,
+            9
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You're someone who takes ownership and who tries to learn as much as possible .",
+        "entity_label": "KNG",
+        "qas_id": "8775.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs",
+        "entity_label": "SKL",
+        "qas_id": "10295.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Deep knowledge of Java Spring Framework web technologies and ( non- ) relational databases ( bonus: node.js react ) Advanced understanding of design implementation and operation of distributed services and APIs",
+        "entity_label": "KNG",
+        "qas_id": "10295.1",
+        "end_position": [
+            3,
+            5,
+            7,
+            13,
+            16,
+            18,
+            30
+        ],
+        "span_position": [
+            "3;3",
+            "4;5",
+            "6;7",
+            "9;13",
+            "16;16",
+            "17;18",
+            "22;30"
+        ],
+        "start_position": [
+            3,
+            4,
+            6,
+            9,
+            16,
+            17,
+            22
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have passion for writing software with emphasis on quality testability and automation .",
+        "entity_label": "SKL",
+        "qas_id": "8499.0",
+        "end_position": [
+            12
+        ],
+        "span_position": [
+            "4;12"
+        ],
+        "start_position": [
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have passion for writing software with emphasis on quality testability and automation .",
+        "entity_label": "KNG",
+        "qas_id": "8499.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have experience working with different development methodologies",
+        "entity_label": "SKL",
+        "qas_id": "9241.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have experience working with different development methodologies",
+        "entity_label": "KNG",
+        "qas_id": "9241.1",
+        "end_position": [
+            7
+        ],
+        "span_position": [
+            "6;7"
+        ],
+        "start_position": [
+            6
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "SKL",
+        "qas_id": "7989.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "KNG",
+        "qas_id": "7989.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description",
+        "entity_label": "SKL",
+        "qas_id": "9513.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description",
+        "entity_label": "KNG",
+        "qas_id": "9513.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description",
+        "entity_label": "SKL",
+        "qas_id": "9222.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job description",
+        "entity_label": "KNG",
+        "qas_id": "9222.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 Ability to automate end to end test requirements using Java/Python",
+        "entity_label": "SKL",
+        "qas_id": "9826.0",
+        "end_position": [
+            8
+        ],
+        "span_position": [
+            "3;8"
+        ],
+        "start_position": [
+            3
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 Ability to automate end to end test requirements using Java/Python",
+        "entity_label": "KNG",
+        "qas_id": "9826.1",
+        "end_position": [
+            10
+        ],
+        "span_position": [
+            "10;10"
+        ],
+        "start_position": [
+            10
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job benefits:",
+        "entity_label": "SKL",
+        "qas_id": "9177.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job benefits:",
+        "entity_label": "KNG",
+        "qas_id": "9177.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full Stack Software Engineer - Java / JavaScript",
+        "entity_label": "SKL",
+        "qas_id": "7974.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full Stack Software Engineer - Java / JavaScript",
+        "entity_label": "KNG",
+        "qas_id": "7974.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have spent many years devoting yourself to software development and have experience working in an agile project team .",
+        "entity_label": "SKL",
+        "qas_id": "9375.0",
+        "end_position": [
+            18
+        ],
+        "span_position": [
+            "16;18"
+        ],
+        "start_position": [
+            16
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have spent many years devoting yourself to software development and have experience working in an agile project team .",
+        "entity_label": "KNG",
+        "qas_id": "9375.1",
+        "end_position": [
+            9
+        ],
+        "span_position": [
+            "8;9"
+        ],
+        "start_position": [
+            8
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "SKL",
+        "qas_id": "9792.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "KNG",
+        "qas_id": "9792.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "SKL",
+        "qas_id": "9743.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "KNG",
+        "qas_id": "9743.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "qa python automation",
+        "entity_label": "SKL",
+        "qas_id": "9820.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "qa python automation",
+        "entity_label": "KNG",
+        "qas_id": "9820.1",
+        "end_position": [
+            0,
+            1,
+            2
+        ],
+        "span_position": [
+            "0;0",
+            "1;1",
+            "2;2"
+        ],
+        "start_position": [
+            0,
+            1,
+            2
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technologies",
+        "entity_label": "SKL",
+        "qas_id": "9295.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Technologies",
+        "entity_label": "KNG",
+        "qas_id": "9295.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "concept understanding ( basic is enough) .",
+        "entity_label": "SKL",
+        "qas_id": "8571.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "concept understanding ( basic is enough) .",
+        "entity_label": "KNG",
+        "qas_id": "8571.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 A clear passion to deliver high quality products",
+        "entity_label": "SKL",
+        "qas_id": "8171.0",
+        "end_position": [
+            8
+        ],
+        "span_position": [
+            "5;8"
+        ],
+        "start_position": [
+            5
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "\u2022 A clear passion to deliver high quality products",
+        "entity_label": "KNG",
+        "qas_id": "8171.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices .",
+        "entity_label": "SKL",
+        "qas_id": "9010.0",
+        "end_position": [
+            22,
+            27
+        ],
+        "span_position": [
+            "20;22",
+            "24;27"
+        ],
+        "start_position": [
+            20,
+            24
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation and engineering practices .",
+        "entity_label": "KNG",
+        "qas_id": "9010.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Privacy Notice",
+        "entity_label": "SKL",
+        "qas_id": "8348.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Privacy Notice",
+        "entity_label": "KNG",
+        "qas_id": "8348.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "SKL",
+        "qas_id": "8288.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "KNG",
+        "qas_id": "8288.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are an equal opportunity employer and place a high value on diversity and inclusion at our company .",
+        "entity_label": "SKL",
+        "qas_id": "8018.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We are an equal opportunity employer and place a high value on diversity and inclusion at our company .",
+        "entity_label": "KNG",
+        "qas_id": "8018.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Quality Engineer",
+        "entity_label": "SKL",
+        "qas_id": "8938.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Quality Engineer",
+        "entity_label": "KNG",
+        "qas_id": "8938.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "7 .",
+        "entity_label": "SKL",
+        "qas_id": "8370.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "7 .",
+        "entity_label": "KNG",
+        "qas_id": "8370.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our fridges are running on a custom Android board running an Android application to serve the POS user interface .",
+        "entity_label": "SKL",
+        "qas_id": "10049.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our fridges are running on a custom Android board running an Android application to serve the POS user interface .",
+        "entity_label": "KNG",
+        "qas_id": "10049.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "20 paid vacation days a year ( B2B ) Paid sick leave",
+        "entity_label": "SKL",
+        "qas_id": "8343.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "20 paid vacation days a year ( B2B ) Paid sick leave",
+        "entity_label": "KNG",
+        "qas_id": "8343.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type: FULL_TIME",
+        "entity_label": "SKL",
+        "qas_id": "8074.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type: FULL_TIME",
+        "entity_label": "KNG",
+        "qas_id": "8074.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "SKL",
+        "qas_id": "8522.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Salary: <SALARY>",
+        "entity_label": "KNG",
+        "qas_id": "8522.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Office in the heart of <LOCATION> with lots of bars and restaurant closeby",
+        "entity_label": "SKL",
+        "qas_id": "10000.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Office in the heart of <LOCATION> with lots of bars and restaurant closeby",
+        "entity_label": "KNG",
+        "qas_id": "10000.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Profit shares: We share our success with all our employees",
+        "entity_label": "SKL",
+        "qas_id": "9408.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Profit shares: We share our success with all our employees",
+        "entity_label": "KNG",
+        "qas_id": "9408.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We custom-train neural machine translation systems for our clients using their own data .",
+        "entity_label": "SKL",
+        "qas_id": "10008.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We custom-train neural machine translation systems for our clients using their own data .",
+        "entity_label": "KNG",
+        "qas_id": "10008.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Tuition Assistance",
+        "entity_label": "SKL",
+        "qas_id": "9932.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Tuition Assistance",
+        "entity_label": "KNG",
+        "qas_id": "9932.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We take an interdisciplinary approach regularly exchanging information and learning from each other in an environment that values open communication honest self-appraisal and teamwork .",
+        "entity_label": "SKL",
+        "qas_id": "9386.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We take an interdisciplinary approach regularly exchanging information and learning from each other in an environment that values open communication honest self-appraisal and teamwork .",
+        "entity_label": "KNG",
+        "qas_id": "9386.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Appreciation and familiarity of the wider Microsoft stack how they integrate with Dynamics 365 and understand how they can bring business value to our customers",
+        "entity_label": "SKL",
+        "qas_id": "9662.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Appreciation and familiarity of the wider Microsoft stack how they integrate with Dynamics 365 and understand how they can bring business value to our customers",
+        "entity_label": "KNG",
+        "qas_id": "9662.1",
+        "end_position": [
+            7,
+            13
+        ],
+        "span_position": [
+            "6;7",
+            "12;13"
+        ],
+        "start_position": [
+            6,
+            12
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "German English ) Company sports - entry to various gyms and swimming pools",
+        "entity_label": "SKL",
+        "qas_id": "8967.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "German English ) Company sports - entry to various gyms and swimming pools",
+        "entity_label": "KNG",
+        "qas_id": "8967.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "SKL",
+        "qas_id": "9043.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company description:",
+        "entity_label": "KNG",
+        "qas_id": "9043.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You will bring expert knowledge to future QA team members .",
+        "entity_label": "SKL",
+        "qas_id": "8858.0",
+        "end_position": [
+            4
+        ],
+        "span_position": [
+            "2;4"
+        ],
+        "start_position": [
+            2
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You will bring expert knowledge to future QA team members .",
+        "entity_label": "KNG",
+        "qas_id": "8858.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "SKL",
+        "qas_id": "9205.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company size: <SIZE>",
+        "entity_label": "KNG",
+        "qas_id": "9205.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "SKL",
+        "qas_id": "8134.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Likes: 0 Dislikes: 0 Love: 0",
+        "entity_label": "KNG",
+        "qas_id": "8134.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Passion for agile software development product discovery and continuous deployment",
+        "entity_label": "SKL",
+        "qas_id": "10298.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Passion for agile software development product discovery and continuous deployment",
+        "entity_label": "KNG",
+        "qas_id": "10298.1",
+        "end_position": [
+            4,
+            6,
+            9
+        ],
+        "span_position": [
+            "2;4",
+            "5;6",
+            "8;9"
+        ],
+        "start_position": [
+            2,
+            5,
+            8
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "YOUR PROFILE",
+        "entity_label": "SKL",
+        "qas_id": "8256.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "YOUR PROFILE",
+        "entity_label": "KNG",
+        "qas_id": "8256.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "and",
+        "entity_label": "SKL",
+        "qas_id": "8558.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "and",
+        "entity_label": "KNG",
+        "qas_id": "8558.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Skills & Requirements",
+        "entity_label": "SKL",
+        "qas_id": "8376.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Skills & Requirements",
+        "entity_label": "KNG",
+        "qas_id": "8376.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Accessibility usability and the current web standards are important to you",
+        "entity_label": "SKL",
+        "qas_id": "9464.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Accessibility usability and the current web standards are important to you",
+        "entity_label": "KNG",
+        "qas_id": "9464.1",
+        "end_position": [
+            0,
+            1,
+            6
+        ],
+        "span_position": [
+            "0;0",
+            "1;1",
+            "4;6"
+        ],
+        "start_position": [
+            0,
+            1,
+            4
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We do not discriminate on the basis of any protected attribute including race religion color national origin gender sexual orientation gender identity gender expression age marital or veteran status pregnancy or disability or any other basis protected under applicable law .",
+        "entity_label": "SKL",
+        "qas_id": "8207.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "We do not discriminate on the basis of any protected attribute including race religion color national origin gender sexual orientation gender identity gender expression age marital or veteran status pregnancy or disability or any other basis protected under applicable law .",
+        "entity_label": "KNG",
+        "qas_id": "8207.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You care about code quality and can't imagine your life without it",
+        "entity_label": "SKL",
+        "qas_id": "9242.0",
+        "end_position": [
+            4
+        ],
+        "span_position": [
+            "1;4"
+        ],
+        "start_position": [
+            1
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You care about code quality and can't imagine your life without it",
+        "entity_label": "KNG",
+        "qas_id": "9242.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our first-class business in a first-class way approach to serving clients drives everything we do .",
+        "entity_label": "SKL",
+        "qas_id": "9920.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Our first-class business in a first-class way approach to serving clients drives everything we do .",
+        "entity_label": "KNG",
+        "qas_id": "9920.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Home-office ( remote work ) Company description:",
+        "entity_label": "SKL",
+        "qas_id": "9728.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Home-office ( remote work ) Company description:",
+        "entity_label": "KNG",
+        "qas_id": "9728.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Support developers troubleshooting deployed applications ( identify app issues vs configuration/environment issues ) Enhance quality through pipelines and usage of static analysis tools ( SonarQube . NET Analyzers Infer# etc. ) Your qualifications skills & experience",
+        "entity_label": "SKL",
+        "qas_id": "8106.0",
+        "end_position": [
+            1,
+            4,
+            12,
+            16,
+            22
+        ],
+        "span_position": [
+            "0;1",
+            "2;4",
+            "6;12",
+            "13;16",
+            "18;22"
+        ],
+        "start_position": [
+            0,
+            2,
+            6,
+            13,
+            18
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Support developers troubleshooting deployed applications ( identify app issues vs configuration/environment issues ) Enhance quality through pipelines and usage of static analysis tools ( SonarQube . NET Analyzers Infer# etc. ) Your qualifications skills & experience",
+        "entity_label": "KNG",
+        "qas_id": "8106.1",
+        "end_position": [
+            24,
+            27,
+            28
+        ],
+        "span_position": [
+            "24;24",
+            "25;27",
+            "28;28"
+        ],
+        "start_position": [
+            24,
+            25,
+            28
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Comprehensive healthcare",
+        "entity_label": "SKL",
+        "qas_id": "8270.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Comprehensive healthcare",
+        "entity_label": "KNG",
+        "qas_id": "8270.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have experience defining and modelling a consumable API .",
+        "entity_label": "SKL",
+        "qas_id": "9983.0",
+        "end_position": [
+            8
+        ],
+        "span_position": [
+            "3;8"
+        ],
+        "start_position": [
+            3
+        ],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "You have experience defining and modelling a consumable API .",
+        "entity_label": "KNG",
+        "qas_id": "9983.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "SKL",
+        "qas_id": "9629.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Full-time",
+        "entity_label": "KNG",
+        "qas_id": "9629.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "THE CHALLENGE / YOUR ROLE:",
+        "entity_label": "SKL",
+        "qas_id": "10055.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "THE CHALLENGE / YOUR ROLE:",
+        "entity_label": "KNG",
+        "qas_id": "10055.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type: FULL_TIME",
+        "entity_label": "SKL",
+        "qas_id": "8462.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Job type: FULL_TIME",
+        "entity_label": "KNG",
+        "qas_id": "8462.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "SKL",
+        "qas_id": "8527.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    },
+    {
+        "context": "Company type: <COMPANY_TYPE>",
+        "entity_label": "KNG",
+        "qas_id": "8527.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "tech",
+        "part": "test"
+    }
+]

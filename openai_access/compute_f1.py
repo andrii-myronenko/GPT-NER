@@ -7,7 +7,8 @@ def get_parser():
 
     parser.add_argument("--candidate-file", type=str, help="file for the predictions")
     parser.add_argument("--reference-file", type=str, help="file for the reference")
-    
+    parser.add_argument("--entitiy-type", type=str, help="entity to evaluate")
+
     return parser
 
 def read_openai_file(file_name):
@@ -25,22 +26,35 @@ def read_mrc_file(file_name):
 
     return json.load(open(file_name))
 
-def compute_f1(mrc_data, openai_data):
+def compute_f1(mrc_data, openai_data, entitiy_type):
     print("computting f1 ...")
 
     true_positive = 0
     false_positive = 0
     false_negitative = 0
     for idx_ in range(len(mrc_data)):
+        should_skip = False
+
+        if entitiy_type == "knowledge":
+            if idx_ % 2 == 0:
+                should_skip = True
+        elif entitiy_type == "skill":
+            if idx_ % 2 != 0:
+                should_skip = True
+
+        if should_skip:
+            continue
+
         reference = []
         candidate = []
         item_ = mrc_data[idx_]
+        print(item_)
         context_list = item_["context"].strip().split()
         for sub_idx in range(len(item_["start_position"])):
             start_ = item_["start_position"][sub_idx]
             end_ = item_["end_position"][sub_idx]
             reference.append((" ".join(context_list[start_:end_+1]), start_, end_))
-        
+
 
         flag = False
         candidate_sentence = openai_data[idx_]
@@ -78,7 +92,7 @@ def compute_f1(mrc_data, openai_data):
         #     if flag and len(word) > 2 and word[-1] == '#' and word[-2] == '#':
         #         flag = False
         #         candidate.append((" ".join(context_list[start_:word_idx+1])[2:-2], start_, word_idx))
-        
+
         # print(f"ref: {reference}")
         # print(f"can: {candidate}")
         for span_item in candidate:
@@ -88,7 +102,7 @@ def compute_f1(mrc_data, openai_data):
             else:
                 false_positive += 1
         false_negitative += len(reference)
-    
+
     span_recall = true_positive / (true_positive + false_negitative)
     span_precision = true_positive / (true_positive + false_positive)
     span_f1 = span_precision * span_recall * 2 / (span_recall + span_precision)
@@ -102,6 +116,6 @@ if __name__ == '__main__':
     predictions = read_openai_file(args.candidate_file)
     mrc_data = read_mrc_file(args.reference_file)
 
-    span_recall, span_precision, span_f1 = compute_f1(mrc_data=mrc_data, openai_data=predictions)
+    span_recall, span_precision, span_f1 = compute_f1(mrc_data=mrc_data, openai_data=predictions, entitiy_type=args.entitiy_type)
 
     print(f"span_recall: {span_recall}, span_precision: {span_precision}, span_f1: {span_f1}")

@@ -1,0 +1,3125 @@
+[
+    {
+        "context": "We take candidates into the recruitment process continuously and close the position down once we have found the right candidate.",
+        "entity_label": "SKL",
+        "qas_id": "10806.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We take candidates into the recruitment process continuously and close the position down once we have found the right candidate.",
+        "entity_label": "KNG",
+        "qas_id": "10806.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Appreciation of the importance of coherent software architecture and design\u0095 Loosely coupled message or event based architectures\u0095 A full understanding of eventual consistency concepts preferably hands on experience\u0095",
+        "entity_label": "SKL",
+        "qas_id": "11073.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Appreciation of the importance of coherent software architecture and design\u0095 Loosely coupled message or event based architectures\u0095 A full understanding of eventual consistency concepts preferably hands on experience\u0095",
+        "entity_label": "KNG",
+        "qas_id": "11073.1",
+        "end_position": [
+            9,
+            16,
+            23
+        ],
+        "span_position": [
+            "5;9",
+            "12;16",
+            "21;23"
+        ],
+        "start_position": [
+            5,
+            12,
+            21
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Likely the project will involve additional trips to the <LOCATION> <LOCATION> as microscope implementation at <ORGANIZATION> progresses .",
+        "entity_label": "SKL",
+        "qas_id": "11167.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Likely the project will involve additional trips to the <LOCATION> <LOCATION> as microscope implementation at <ORGANIZATION> progresses .",
+        "entity_label": "KNG",
+        "qas_id": "11167.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Manage and be part of all processes of a typical sales cycle from A-Z .",
+        "entity_label": "SKL",
+        "qas_id": "11011.0",
+        "end_position": [
+            11
+        ],
+        "span_position": [
+            "0;11"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Manage and be part of all processes of a typical sales cycle from A-Z .",
+        "entity_label": "KNG",
+        "qas_id": "11011.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Personal adherence to development standards and best practices for software development and review of colleague\u0092s code\u0095 Being an exemplar of progressive development behaviours; maximizing collaboration and knowledge sharing through effective pairing on tasks with developers testers and DevOps\u0095 Creation of POC\u0092s / Spike development and active involvement in technology evaluation",
+        "entity_label": "SKL",
+        "qas_id": "11046.0",
+        "end_position": [
+            15,
+            22,
+            24,
+            27,
+            30,
+            43,
+            49
+        ],
+        "span_position": [
+            "12;15",
+            "20;22",
+            "23;24",
+            "26;27",
+            "29;30",
+            "38;43",
+            "46;49"
+        ],
+        "start_position": [
+            12,
+            20,
+            23,
+            26,
+            29,
+            38,
+            46
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Personal adherence to development standards and best practices for software development and review of colleague\u0092s code\u0095 Being an exemplar of progressive development behaviours; maximizing collaboration and knowledge sharing through effective pairing on tasks with developers testers and DevOps\u0095 Creation of POC\u0092s / Spike development and active involvement in technology evaluation",
+        "entity_label": "KNG",
+        "qas_id": "11046.1",
+        "end_position": [
+            4,
+            7,
+            10
+        ],
+        "span_position": [
+            "3;4",
+            "6;7",
+            "9;10"
+        ],
+        "start_position": [
+            3,
+            6,
+            9
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Our aim is to offer our customers an integrated customer centric value driven transparent and real time supply chain ecosystem through disruptive digital & capability transformation .",
+        "entity_label": "SKL",
+        "qas_id": "10735.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Our aim is to offer our customers an integrated customer centric value driven transparent and real time supply chain ecosystem through disruptive digital & capability transformation .",
+        "entity_label": "KNG",
+        "qas_id": "10735.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You have a natural interest in managing people and your CV shows at least two years of management experience .",
+        "entity_label": "SKL",
+        "qas_id": "10858.0",
+        "end_position": [
+            7,
+            17
+        ],
+        "span_position": [
+            "6;7",
+            "17;17"
+        ],
+        "start_position": [
+            6,
+            17
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You have a natural interest in managing people and your CV shows at least two years of management experience .",
+        "entity_label": "KNG",
+        "qas_id": "10858.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We run tours daily and in the high season you will most likely be working more than one tour per day so it is important you have a good stamina for repeat tours and a love for being outdoors .",
+        "entity_label": "SKL",
+        "qas_id": "11377.0",
+        "end_position": [
+            29,
+            38
+        ],
+        "span_position": [
+            "29;29",
+            "35;38"
+        ],
+        "start_position": [
+            29,
+            35
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We run tours daily and in the high season you will most likely be working more than one tour per day so it is important you have a good stamina for repeat tours and a love for being outdoors .",
+        "entity_label": "KNG",
+        "qas_id": "11377.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We are interested particularly in research and teaching in the areas of business research .",
+        "entity_label": "SKL",
+        "qas_id": "11278.0",
+        "end_position": [
+            5,
+            7
+        ],
+        "span_position": [
+            "5;5",
+            "7;7"
+        ],
+        "start_position": [
+            5,
+            7
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We are interested particularly in research and teaching in the areas of business research .",
+        "entity_label": "KNG",
+        "qas_id": "11278.1",
+        "end_position": [
+            13
+        ],
+        "span_position": [
+            "12;13"
+        ],
+        "start_position": [
+            12
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Latest phone for work and private use",
+        "entity_label": "SKL",
+        "qas_id": "10257.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Latest phone for work and private use",
+        "entity_label": "KNG",
+        "qas_id": "10257.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Our expert team is looking forward to welcoming you into our positive and encouraging work environment .",
+        "entity_label": "SKL",
+        "qas_id": "11459.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Our expert team is looking forward to welcoming you into our positive and encouraging work environment .",
+        "entity_label": "KNG",
+        "qas_id": "11459.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Academic development of the marketing discipline .",
+        "entity_label": "SKL",
+        "qas_id": "11262.0",
+        "end_position": [
+            1
+        ],
+        "span_position": [
+            "0;1"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Academic development of the marketing discipline .",
+        "entity_label": "KNG",
+        "qas_id": "11262.1",
+        "end_position": [
+            4
+        ],
+        "span_position": [
+            "4;4"
+        ],
+        "start_position": [
+            4
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If this sounds like the job for you then create a profile on our website <CONTACT> upload your CV and application .",
+        "entity_label": "SKL",
+        "qas_id": "11148.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If this sounds like the job for you then create a profile on our website <CONTACT> upload your CV and application .",
+        "entity_label": "KNG",
+        "qas_id": "11148.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We offer",
+        "entity_label": "SKL",
+        "qas_id": "11198.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We offer",
+        "entity_label": "KNG",
+        "qas_id": "11198.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> <ORGANIZATION> <ORGANIZATION> 500 employees deliver state-of-the-art smart energy solutions and handle all aspects related to purchasing selling and distributing energy .",
+        "entity_label": "SKL",
+        "qas_id": "10769.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> <ORGANIZATION> <ORGANIZATION> 500 employees deliver state-of-the-art smart energy solutions and handle all aspects related to purchasing selling and distributing energy .",
+        "entity_label": "KNG",
+        "qas_id": "10769.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This transition represents an exciting opportunity for us ( and for you as a PhD Student ) to reinvent our research strategies as well as our approaches to teaching and learning .",
+        "entity_label": "SKL",
+        "qas_id": "11160.0",
+        "end_position": [
+            21
+        ],
+        "span_position": [
+            "18;21"
+        ],
+        "start_position": [
+            18
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This transition represents an exciting opportunity for us ( and for you as a PhD Student ) to reinvent our research strategies as well as our approaches to teaching and learning .",
+        "entity_label": "KNG",
+        "qas_id": "11160.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will become part of an international team with a high focus on continuous coaching and development all while contributing to creating a better future for the children of the world .",
+        "entity_label": "SKL",
+        "qas_id": "10665.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will become part of an international team with a high focus on continuous coaching and development all while contributing to creating a better future for the children of the world .",
+        "entity_label": "KNG",
+        "qas_id": "10665.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The core of the role includes all aspects of the international sales and business development process focused on building new business relationships as well as building on existing success already in place .",
+        "entity_label": "SKL",
+        "qas_id": "11004.0",
+        "end_position": [
+            21,
+            28
+        ],
+        "span_position": [
+            "18;21",
+            "25;28"
+        ],
+        "start_position": [
+            18,
+            25
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The core of the role includes all aspects of the international sales and business development process focused on building new business relationships as well as building on existing success already in place .",
+        "entity_label": "KNG",
+        "qas_id": "11004.1",
+        "end_position": [
+            11,
+            15
+        ],
+        "span_position": [
+            "10;11",
+            "13;15"
+        ],
+        "start_position": [
+            10,
+            13
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Strong knowledge of HTML and CSS ( LESS SCSS PostCSS ) Solid understanding of Angular React or similar JS frameworks",
+        "entity_label": "SKL",
+        "qas_id": "10329.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Strong knowledge of HTML and CSS ( LESS SCSS PostCSS ) Solid understanding of Angular React or similar JS frameworks",
+        "entity_label": "KNG",
+        "qas_id": "10329.1",
+        "end_position": [
+            3,
+            5,
+            7,
+            8,
+            10,
+            14,
+            15,
+            18
+        ],
+        "span_position": [
+            "3;3",
+            "5;5",
+            "7;7",
+            "8;8",
+            "9;10",
+            "14;14",
+            "15;15",
+            "18;18"
+        ],
+        "start_position": [
+            3,
+            5,
+            7,
+            8,
+            9,
+            14,
+            15,
+            18
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Personality and experience You are inspiring persuasive and convincing in your behavior .",
+        "entity_label": "SKL",
+        "qas_id": "11017.0",
+        "end_position": [
+            5,
+            6,
+            8
+        ],
+        "span_position": [
+            "5;5",
+            "6;6",
+            "8;8"
+        ],
+        "start_position": [
+            5,
+            6,
+            8
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Personality and experience You are inspiring persuasive and convincing in your behavior .",
+        "entity_label": "KNG",
+        "qas_id": "11017.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Equipment of your choice",
+        "entity_label": "SKL",
+        "qas_id": "10249.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Equipment of your choice",
+        "entity_label": "KNG",
+        "qas_id": "10249.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Furthermore excellence in at least one of the following categories is highly desirable: data visualisation tools cloud platforms machine learning techniques and algorithms .",
+        "entity_label": "SKL",
+        "qas_id": "11118.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Furthermore excellence in at least one of the following categories is highly desirable: data visualisation tools cloud platforms machine learning techniques and algorithms .",
+        "entity_label": "KNG",
+        "qas_id": "11118.1",
+        "end_position": [
+            15,
+            17,
+            19,
+            22
+        ],
+        "span_position": [
+            "13;15",
+            "16;17",
+            "18;19",
+            "22;22"
+        ],
+        "start_position": [
+            13,
+            16,
+            18,
+            22
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Your tasks will vary and you will get a possibility to influence your work day-to-day .",
+        "entity_label": "SKL",
+        "qas_id": "10816.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Your tasks will vary and you will get a possibility to influence your work day-to-day .",
+        "entity_label": "KNG",
+        "qas_id": "10816.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In order to apply for this job you have to be: Fluent in English .",
+        "entity_label": "SKL",
+        "qas_id": "11346.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In order to apply for this job you have to be: Fluent in English .",
+        "entity_label": "KNG",
+        "qas_id": "11346.1",
+        "end_position": [
+            13
+        ],
+        "span_position": [
+            "13;13"
+        ],
+        "start_position": [
+            13
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can read more about <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> on <CONTACT> <CONTACT>",
+        "entity_label": "SKL",
+        "qas_id": "10387.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can read more about <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> on <CONTACT> <CONTACT>",
+        "entity_label": "KNG",
+        "qas_id": "10387.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will work directly with business leadership business users and the R&D to drive development of the software product roadmap find innovative solutions for existing and new technology needs and stays on top of current trends to develop long term plans for the success of the dedicated product .",
+        "entity_label": "SKL",
+        "qas_id": "10962.0",
+        "end_position": [
+            19,
+            22,
+            35,
+            40
+        ],
+        "span_position": [
+            "13;19",
+            "20;22",
+            "30;35",
+            "37;40"
+        ],
+        "start_position": [
+            13,
+            20,
+            30,
+            37
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will work directly with business leadership business users and the R&D to drive development of the software product roadmap find innovative solutions for existing and new technology needs and stays on top of current trends to develop long term plans for the success of the dedicated product .",
+        "entity_label": "KNG",
+        "qas_id": "10962.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We expect that you speak and write fluently English .",
+        "entity_label": "SKL",
+        "qas_id": "10463.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We expect that you speak and write fluently English .",
+        "entity_label": "KNG",
+        "qas_id": "10463.1",
+        "end_position": [
+            8
+        ],
+        "span_position": [
+            "8;8"
+        ],
+        "start_position": [
+            8
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will work in different bid and sales project-oriented processes .",
+        "entity_label": "SKL",
+        "qas_id": "10453.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will work in different bid and sales project-oriented processes .",
+        "entity_label": "KNG",
+        "qas_id": "10453.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "For further information please contact <NAME> <NAME> <CONTACT> <CONTACT>",
+        "entity_label": "SKL",
+        "qas_id": "10901.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "For further information please contact <NAME> <NAME> <CONTACT> <CONTACT>",
+        "entity_label": "KNG",
+        "qas_id": "10901.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Perform benchmarking and do market analysis for key positions .",
+        "entity_label": "SKL",
+        "qas_id": "10550.0",
+        "end_position": [
+            1,
+            5
+        ],
+        "span_position": [
+            "0;1",
+            "4;5"
+        ],
+        "start_position": [
+            0,
+            4
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Perform benchmarking and do market analysis for key positions .",
+        "entity_label": "KNG",
+        "qas_id": "10550.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You are also welcome to send us a video application .",
+        "entity_label": "SKL",
+        "qas_id": "11150.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You are also welcome to send us a video application .",
+        "entity_label": "KNG",
+        "qas_id": "11150.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Result oriented and work constructively towards reaching goals .",
+        "entity_label": "SKL",
+        "qas_id": "10680.0",
+        "end_position": [
+            1,
+            7
+        ],
+        "span_position": [
+            "0;1",
+            "3;7"
+        ],
+        "start_position": [
+            0,
+            3
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Result oriented and work constructively towards reaching goals .",
+        "entity_label": "KNG",
+        "qas_id": "10680.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "At <ORGANIZATION> we work in close partnership with our customers and the global community to make a sustainable impact .",
+        "entity_label": "SKL",
+        "qas_id": "10510.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "At <ORGANIZATION> we work in close partnership with our customers and the global community to make a sustainable impact .",
+        "entity_label": "KNG",
+        "qas_id": "10510.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We will conduct interviews on an on-going basis.",
+        "entity_label": "SKL",
+        "qas_id": "10566.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We will conduct interviews on an on-going basis.",
+        "entity_label": "KNG",
+        "qas_id": "10566.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This position is placed in <LOCATION> <LOCATION> .",
+        "entity_label": "SKL",
+        "qas_id": "10429.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This position is placed in <LOCATION> <LOCATION> .",
+        "entity_label": "KNG",
+        "qas_id": "10429.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "About <ORGANIZATION> <ORGANIZATION> is the world leader in biological solutions .",
+        "entity_label": "SKL",
+        "qas_id": "10526.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "About <ORGANIZATION> <ORGANIZATION> is the world leader in biological solutions .",
+        "entity_label": "KNG",
+        "qas_id": "10526.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "See more about us on our website <CONTACT> Working time: Full time of 37 hours per week Duration: 3 months Deadline: 10-01-2021 Please send your application and resume to Sales Manager <NAME> <NAME> via e-mail to <CONTACT> <CONTACT> <ORGANIZATION> <ORGANIZATION> is based on <LOCATION> near <LOCATION> .",
+        "entity_label": "SKL",
+        "qas_id": "11480.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "See more about us on our website <CONTACT> Working time: Full time of 37 hours per week Duration: 3 months Deadline: 10-01-2021 Please send your application and resume to Sales Manager <NAME> <NAME> via e-mail to <CONTACT> <CONTACT> <ORGANIZATION> <ORGANIZATION> is based on <LOCATION> near <LOCATION> .",
+        "entity_label": "KNG",
+        "qas_id": "11480.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If you\u0092re curious enjoy learning and want to have an impact on enabling the next generation of renewable energy projects we would like to hear from you .",
+        "entity_label": "SKL",
+        "qas_id": "10756.0",
+        "end_position": [
+            2,
+            4
+        ],
+        "span_position": [
+            "2;2",
+            "3;4"
+        ],
+        "start_position": [
+            2,
+            3
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If you\u0092re curious enjoy learning and want to have an impact on enabling the next generation of renewable energy projects we would like to hear from you .",
+        "entity_label": "KNG",
+        "qas_id": "10756.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> has over 1300 employees in more than 20 countries with headquarters in <LOCATION> .",
+        "entity_label": "SKL",
+        "qas_id": "10475.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> has over 1300 employees in more than 20 countries with headquarters in <LOCATION> .",
+        "entity_label": "KNG",
+        "qas_id": "10475.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Would you like to have a cool workday consisting of cruising on a Segway while showing tourists from all over the world our beautiful city?",
+        "entity_label": "SKL",
+        "qas_id": "11322.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Would you like to have a cool workday consisting of cruising on a Segway while showing tourists from all over the world our beautiful city?",
+        "entity_label": "KNG",
+        "qas_id": "11322.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "There will be a high degree of cooperation with other teams in the department the management team as well as QA functions and other collaborators .",
+        "entity_label": "SKL",
+        "qas_id": "10854.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "There will be a high degree of cooperation with other teams in the department the management team as well as QA functions and other collaborators .",
+        "entity_label": "KNG",
+        "qas_id": "10854.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Would you like to help shape the renewable technologies of the future? Send your application to us as soon as possible and no later than 31 January 2019 as we\u0092ll be conducting interviews on a continuous basis .",
+        "entity_label": "SKL",
+        "qas_id": "11122.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Would you like to help shape the renewable technologies of the future? Send your application to us as soon as possible and no later than 31 January 2019 as we\u0092ll be conducting interviews on a continuous basis .",
+        "entity_label": "KNG",
+        "qas_id": "11122.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Recruitment process",
+        "entity_label": "SKL",
+        "qas_id": "11310.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Recruitment process",
+        "entity_label": "KNG",
+        "qas_id": "11310.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Receipts of the applications will be acknowledged and the applicant will be kept continuously informed of the progress of the application .",
+        "entity_label": "SKL",
+        "qas_id": "11533.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Receipts of the applications will be acknowledged and the applicant will be kept continuously informed of the progress of the application .",
+        "entity_label": "KNG",
+        "qas_id": "11533.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will join us at a time where we have exciting projects in the pipeline all of which are run by cross-functional teams .",
+        "entity_label": "SKL",
+        "qas_id": "11445.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will join us at a time where we have exciting projects in the pipeline all of which are run by cross-functional teams .",
+        "entity_label": "KNG",
+        "qas_id": "11445.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The job is for around 40 hours a week where you will be working from around 6:30 in the morning until 15:30 in the afternoon .",
+        "entity_label": "SKL",
+        "qas_id": "10482.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The job is for around 40 hours a week where you will be working from around 6:30 in the morning until 15:30 in the afternoon .",
+        "entity_label": "KNG",
+        "qas_id": "10482.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "interface optics electronics and software .",
+        "entity_label": "SKL",
+        "qas_id": "11177.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "interface optics electronics and software .",
+        "entity_label": "KNG",
+        "qas_id": "11177.1",
+        "end_position": [
+            1,
+            2,
+            4
+        ],
+        "span_position": [
+            "0;1",
+            "2;2",
+            "4;4"
+        ],
+        "start_position": [
+            0,
+            2,
+            4
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Please remember to attach your cover letter and a current CV in English .",
+        "entity_label": "SKL",
+        "qas_id": "10803.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Please remember to attach your cover letter and a current CV in English .",
+        "entity_label": "KNG",
+        "qas_id": "10803.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "As a promotor you therefore need to engage people in the streets and inspire them to support the cause by conveying knowledge about how <ORGANIZATION> works .",
+        "entity_label": "SKL",
+        "qas_id": "10667.0",
+        "end_position": [
+            11,
+            21
+        ],
+        "span_position": [
+            "7;11",
+            "20;21"
+        ],
+        "start_position": [
+            7,
+            20
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "As a promotor you therefore need to engage people in the streets and inspire them to support the cause by conveying knowledge about how <ORGANIZATION> works .",
+        "entity_label": "KNG",
+        "qas_id": "10667.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Do you want to be part of a team supporting growth through development and continuous optimisation of global rewards initiatives?",
+        "entity_label": "SKL",
+        "qas_id": "10536.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Do you want to be part of a team supporting growth through development and continuous optimisation of global rewards initiatives?",
+        "entity_label": "KNG",
+        "qas_id": "10536.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Call <CONTACT> for more information - a serious job for adult people - <CONTACT>",
+        "entity_label": "SKL",
+        "qas_id": "10732.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Call <CONTACT> for more information - a serious job for adult people - <CONTACT>",
+        "entity_label": "KNG",
+        "qas_id": "10732.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Together with our customers <ORGANIZATION> more than 24,300 employees are bringing the world sustainable energy solutions to power a bright future .",
+        "entity_label": "SKL",
+        "qas_id": "10436.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Together with our customers <ORGANIZATION> more than 24,300 employees are bringing the world sustainable energy solutions to power a bright future .",
+        "entity_label": "KNG",
+        "qas_id": "10436.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We will provide you with opportunities to broaden your knowledge and strengthen your technical and professional foundation .",
+        "entity_label": "SKL",
+        "qas_id": "11053.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We will provide you with opportunities to broaden your knowledge and strengthen your technical and professional foundation .",
+        "entity_label": "KNG",
+        "qas_id": "11053.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If you want to experience a different country and combine that with work please feel free to send your CV to <CONTACT> <CONTACT> and we will get back to you shortly .",
+        "entity_label": "SKL",
+        "qas_id": "10489.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If you want to experience a different country and combine that with work please feel free to send your CV to <CONTACT> <CONTACT> and we will get back to you shortly .",
+        "entity_label": "KNG",
+        "qas_id": "10489.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The Department of Electrical Engineering is the central department within electrical and biomedical engineering .",
+        "entity_label": "SKL",
+        "qas_id": "11226.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The Department of Electrical Engineering is the central department within electrical and biomedical engineering .",
+        "entity_label": "KNG",
+        "qas_id": "11226.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You are structured and able to keep the overall view and you thrive in a busy and constantly changing working day .",
+        "entity_label": "SKL",
+        "qas_id": "10860.0",
+        "end_position": [
+            2,
+            9,
+            20
+        ],
+        "span_position": [
+            "2;2",
+            "6;9",
+            "12;20"
+        ],
+        "start_position": [
+            2,
+            6,
+            12
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You are structured and able to keep the overall view and you thrive in a busy and constantly changing working day .",
+        "entity_label": "KNG",
+        "qas_id": "10860.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Join us and become Senior Data Engineer in Advanced Analytics where you\u0092ll be part of projects and labs responsible for developing our new data backbone and inspiring the stakeholders in advanced analytics and artificial intelligence techniques to achieve better results .",
+        "entity_label": "SKL",
+        "qas_id": "11113.0",
+        "end_position": [
+            24,
+            28
+        ],
+        "span_position": [
+            "20;24",
+            "26;28"
+        ],
+        "start_position": [
+            20,
+            26
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Join us and become Senior Data Engineer in Advanced Analytics where you\u0092ll be part of projects and labs responsible for developing our new data backbone and inspiring the stakeholders in advanced analytics and artificial intelligence techniques to achieve better results .",
+        "entity_label": "KNG",
+        "qas_id": "11113.1",
+        "end_position": [
+            31,
+            34
+        ],
+        "span_position": [
+            "30;31",
+            "33;34"
+        ],
+        "start_position": [
+            30,
+            33
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You have good knowledge and experience in automation and control systems .",
+        "entity_label": "SKL",
+        "qas_id": "11094.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You have good knowledge and experience in automation and control systems .",
+        "entity_label": "KNG",
+        "qas_id": "11094.1",
+        "end_position": [
+            7,
+            10
+        ],
+        "span_position": [
+            "7;7",
+            "9;10"
+        ],
+        "start_position": [
+            7,
+            9
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We are looking for a candidate that would be motivated by taking a key role in the digitalization at <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> with leadership in Teamcenter our PLM/PDM Manufacturing Execution and product quality systems ( QSYS ) and integration to global ERP ( SAP ) Platforms for Product and process related information.We are working in a truly global environment and you will be collaborating with a broad diversity of cultures globally .",
+        "entity_label": "SKL",
+        "qas_id": "11491.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We are looking for a candidate that would be motivated by taking a key role in the digitalization at <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> with leadership in Teamcenter our PLM/PDM Manufacturing Execution and product quality systems ( QSYS ) and integration to global ERP ( SAP ) Platforms for Product and process related information.We are working in a truly global environment and you will be collaborating with a broad diversity of cultures globally .",
+        "entity_label": "KNG",
+        "qas_id": "11491.1",
+        "end_position": [
+            28,
+            30,
+            37,
+            46
+        ],
+        "span_position": [
+            "28;28",
+            "29;30",
+            "32;37",
+            "41;46"
+        ],
+        "start_position": [
+            28,
+            29,
+            32,
+            41
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Furthermore the successful applicant must document pedagogical qualifications and competences in terms of development and innovation in the pedagogical area of marketing .",
+        "entity_label": "SKL",
+        "qas_id": "11284.0",
+        "end_position": [
+            19
+        ],
+        "span_position": [
+            "13;19"
+        ],
+        "start_position": [
+            13
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Furthermore the successful applicant must document pedagogical qualifications and competences in terms of development and innovation in the pedagogical area of marketing .",
+        "entity_label": "KNG",
+        "qas_id": "11284.1",
+        "end_position": [
+            7
+        ],
+        "span_position": [
+            "6;7"
+        ],
+        "start_position": [
+            6
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "After tax you can expect to receive approx .",
+        "entity_label": "SKL",
+        "qas_id": "10618.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "After tax you can expect to receive approx .",
+        "entity_label": "KNG",
+        "qas_id": "10618.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "KG and internationally renowned Danish hearing health care company <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> .",
+        "entity_label": "SKL",
+        "qas_id": "11468.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "KG and internationally renowned Danish hearing health care company <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> .",
+        "entity_label": "KNG",
+        "qas_id": "11468.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> offers: A fixed and well-paid full-time or part-time job as carrier",
+        "entity_label": "SKL",
+        "qas_id": "10702.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<ORGANIZATION> offers: A fixed and well-paid full-time or part-time job as carrier",
+        "entity_label": "KNG",
+        "qas_id": "10702.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "With our customer in <LOCATION> you will become a part of a team where cooperation enthusiasm and quality are the key words and where employee welfare is in focus .",
+        "entity_label": "SKL",
+        "qas_id": "10808.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "With our customer in <LOCATION> you will become a part of a team where cooperation enthusiasm and quality are the key words and where employee welfare is in focus .",
+        "entity_label": "KNG",
+        "qas_id": "10808.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Business Engineering or Supply Chain Management ) backed by at least 7 years\u0092 supply chain experience from an international company where you have gained proven working experience with SAP APO .",
+        "entity_label": "SKL",
+        "qas_id": "11398.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Business Engineering or Supply Chain Management ) backed by at least 7 years\u0092 supply chain experience from an international company where you have gained proven working experience with SAP APO .",
+        "entity_label": "KNG",
+        "qas_id": "11398.1",
+        "end_position": [
+            1,
+            6,
+            14,
+            29
+        ],
+        "span_position": [
+            "1;1",
+            "3;6",
+            "13;14",
+            "28;29"
+        ],
+        "start_position": [
+            1,
+            3,
+            13,
+            28
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Foreign applicants may find the following links useful: <CONTACT> ( International Staff Mobility ) and <CONTACT> .",
+        "entity_label": "SKL",
+        "qas_id": "11525.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Foreign applicants may find the following links useful: <CONTACT> ( International Staff Mobility ) and <CONTACT> .",
+        "entity_label": "KNG",
+        "qas_id": "11525.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "completed",
+        "entity_label": "SKL",
+        "qas_id": "11382.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "completed",
+        "entity_label": "KNG",
+        "qas_id": "11382.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Please contact Fellow Stig Helveg Atomic-Scale Analysis Department at <CONTACT> <CONTACT> if you want to know more about the position .",
+        "entity_label": "SKL",
+        "qas_id": "11431.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Please contact Fellow Stig Helveg Atomic-Scale Analysis Department at <CONTACT> <CONTACT> if you want to know more about the position .",
+        "entity_label": "KNG",
+        "qas_id": "11431.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Indicative job duties and responsibilities",
+        "entity_label": "SKL",
+        "qas_id": "11252.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Indicative job duties and responsibilities",
+        "entity_label": "KNG",
+        "qas_id": "11252.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Most of the leaders in our team started out as fundraisers .",
+        "entity_label": "SKL",
+        "qas_id": "10677.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Most of the leaders in our team started out as fundraisers .",
+        "entity_label": "KNG",
+        "qas_id": "10677.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The assessment of applicants will be made by Associate Professor <NAME> <NAME> <NAME>",
+        "entity_label": "SKL",
+        "qas_id": "11194.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The assessment of applicants will be made by Associate Professor <NAME> <NAME> <NAME>",
+        "entity_label": "KNG",
+        "qas_id": "11194.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We work on both pedestrian streets at malls and at indoor as well as outdoor events .",
+        "entity_label": "SKL",
+        "qas_id": "10684.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We work on both pedestrian streets at malls and at indoor as well as outdoor events .",
+        "entity_label": "KNG",
+        "qas_id": "10684.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "About you You have most likely worked in large enterprises being part of large scale system implementaions a a lead consultant You have had an exposure to Teamcenter or any other PLM enterprise system and understands how systems interact with ERP and manufacturing execution systems .",
+        "entity_label": "SKL",
+        "qas_id": "11501.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "About you You have most likely worked in large enterprises being part of large scale system implementaions a a lead consultant You have had an exposure to Teamcenter or any other PLM enterprise system and understands how systems interact with ERP and manufacturing execution systems .",
+        "entity_label": "KNG",
+        "qas_id": "11501.1",
+        "end_position": [
+            27,
+            31,
+            40,
+            44
+        ],
+        "span_position": [
+            "27;27",
+            "31;31",
+            "36;40",
+            "42;44"
+        ],
+        "start_position": [
+            27,
+            31,
+            36,
+            42
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In other words you will be the one who your colleagues contact in order to maximise the value of their systems .",
+        "entity_label": "SKL",
+        "qas_id": "10918.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In other words you will be the one who your colleagues contact in order to maximise the value of their systems .",
+        "entity_label": "KNG",
+        "qas_id": "10918.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We also arrange several corporate events all over <LOCATION> .",
+        "entity_label": "SKL",
+        "qas_id": "11326.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We also arrange several corporate events all over <LOCATION> .",
+        "entity_label": "KNG",
+        "qas_id": "11326.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This can be commercial insight or production knowledge",
+        "entity_label": "SKL",
+        "qas_id": "10522.0",
+        "end_position": [
+            4
+        ],
+        "span_position": [
+            "3;4"
+        ],
+        "start_position": [
+            3
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This can be commercial insight or production knowledge",
+        "entity_label": "KNG",
+        "qas_id": "10522.1",
+        "end_position": [
+            6
+        ],
+        "span_position": [
+            "6;6"
+        ],
+        "start_position": [
+            6
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "As a new employee at <ORGANIZATION> helpful colleagues welcome you and you can look forward to both a mentor arrangement and all the support you need .",
+        "entity_label": "SKL",
+        "qas_id": "10956.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "As a new employee at <ORGANIZATION> helpful colleagues welcome you and you can look forward to both a mentor arrangement and all the support you need .",
+        "entity_label": "KNG",
+        "qas_id": "10956.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If so then we have the job for you .",
+        "entity_label": "SKL",
+        "qas_id": "10915.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If so then we have the job for you .",
+        "entity_label": "KNG",
+        "qas_id": "10915.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can choose to work either full time or part time .",
+        "entity_label": "SKL",
+        "qas_id": "10693.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can choose to work either full time or part time .",
+        "entity_label": "KNG",
+        "qas_id": "10693.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Easy access to public transport",
+        "entity_label": "SKL",
+        "qas_id": "10251.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Easy access to public transport",
+        "entity_label": "KNG",
+        "qas_id": "10251.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "There are buses to/from <LOCATION> .",
+        "entity_label": "SKL",
+        "qas_id": "11482.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "There are buses to/from <LOCATION> .",
+        "entity_label": "KNG",
+        "qas_id": "11482.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "During the training period we expect you to work three days a week .",
+        "entity_label": "SKL",
+        "qas_id": "10691.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "During the training period we expect you to work three days a week .",
+        "entity_label": "KNG",
+        "qas_id": "10691.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We hand out letters direct mail packages newspapers and magazines",
+        "entity_label": "SKL",
+        "qas_id": "10728.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We hand out letters direct mail packages newspapers and magazines",
+        "entity_label": "KNG",
+        "qas_id": "10728.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Fluency in English excellent communication and collaborations skills as well as independence in paper and project writing are necessary prerequisites .",
+        "entity_label": "SKL",
+        "qas_id": "10376.0",
+        "end_position": [
+            7,
+            11,
+            16
+        ],
+        "span_position": [
+            "4;7",
+            "11;11",
+            "13;16"
+        ],
+        "start_position": [
+            4,
+            11,
+            13
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Fluency in English excellent communication and collaborations skills as well as independence in paper and project writing are necessary prerequisites .",
+        "entity_label": "KNG",
+        "qas_id": "10376.1",
+        "end_position": [
+            2
+        ],
+        "span_position": [
+            "2;2"
+        ],
+        "start_position": [
+            2
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Appointment will be based on merit alone.",
+        "entity_label": "SKL",
+        "qas_id": "10911.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Appointment will be based on merit alone.",
+        "entity_label": "KNG",
+        "qas_id": "10911.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<NAME> <CONTACT> <CONTACT> <CONTACT> <CONTACT> <CONTACT> .",
+        "entity_label": "SKL",
+        "qas_id": "11212.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<NAME> <CONTACT> <CONTACT> <CONTACT> <CONTACT> <CONTACT> .",
+        "entity_label": "KNG",
+        "qas_id": "11212.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "For further information about the position please contact the hiring manager <NAME> <NAME> via telephone <CONTACT> <CONTACT> .",
+        "entity_label": "SKL",
+        "qas_id": "11506.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "For further information about the position please contact the hiring manager <NAME> <NAME> via telephone <CONTACT> <CONTACT> .",
+        "entity_label": "KNG",
+        "qas_id": "11506.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can expect a very dynamic work life where you meet a technically deep-seated R&D organization an informal work culture and a manager who will help you excel in your role .",
+        "entity_label": "SKL",
+        "qas_id": "11461.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can expect a very dynamic work life where you meet a technically deep-seated R&D organization an informal work culture and a manager who will help you excel in your role .",
+        "entity_label": "KNG",
+        "qas_id": "11461.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Please note that for Danish applicants we may request a criminal record certificate in connection with this job and that employment will be subject to the information listed .",
+        "entity_label": "SKL",
+        "qas_id": "10765.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Please note that for Danish applicants we may request a criminal record certificate in connection with this job and that employment will be subject to the information listed .",
+        "entity_label": "KNG",
+        "qas_id": "10765.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "android mobile kotlin",
+        "entity_label": "SKL",
+        "qas_id": "10212.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "android mobile kotlin",
+        "entity_label": "KNG",
+        "qas_id": "10212.1",
+        "end_position": [
+            0,
+            1,
+            2
+        ],
+        "span_position": [
+            "0;0",
+            "1;1",
+            "2;2"
+        ],
+        "start_position": [
+            0,
+            1,
+            2
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Proactive contribution to continual improvements within your team through both active participation in retrospectives and from engagement with cross team bestpractice communities\u0095",
+        "entity_label": "SKL",
+        "qas_id": "11062.0",
+        "end_position": [
+            4,
+            13,
+            20
+        ],
+        "span_position": [
+            "0;4",
+            "10;13",
+            "16;20"
+        ],
+        "start_position": [
+            0,
+            10,
+            16
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Proactive contribution to continual improvements within your team through both active participation in retrospectives and from engagement with cross team bestpractice communities\u0095",
+        "entity_label": "KNG",
+        "qas_id": "11062.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "MATLAB .",
+        "entity_label": "SKL",
+        "qas_id": "11183.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "MATLAB .",
+        "entity_label": "KNG",
+        "qas_id": "11183.1",
+        "end_position": [
+            0
+        ],
+        "span_position": [
+            "0;0"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Key responsibilities \u0095 Participation in the elaboration of user stories ( technical and functional) .",
+        "entity_label": "SKL",
+        "qas_id": "11058.0",
+        "end_position": [
+            9
+        ],
+        "span_position": [
+            "3;9"
+        ],
+        "start_position": [
+            3
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Key responsibilities \u0095 Participation in the elaboration of user stories ( technical and functional) .",
+        "entity_label": "KNG",
+        "qas_id": "11058.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The PhD Student will be responsible for constructing a 'light sheet' fluorescence microscope for live-sample imaging of 3D printed organoids mimicking the intestinal barrier .",
+        "entity_label": "SKL",
+        "qas_id": "11161.0",
+        "end_position": [
+            12,
+            15
+        ],
+        "span_position": [
+            "7;12",
+            "14;15"
+        ],
+        "start_position": [
+            7,
+            14
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The PhD Student will be responsible for constructing a 'light sheet' fluorescence microscope for live-sample imaging of 3D printed organoids mimicking the intestinal barrier .",
+        "entity_label": "KNG",
+        "qas_id": "11161.1",
+        "end_position": [
+            19
+        ],
+        "span_position": [
+            "17;19"
+        ],
+        "start_position": [
+            17
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We do however still run tours year-round so we welcome applicants who want to continue into our low season and make a longer commitment .",
+        "entity_label": "SKL",
+        "qas_id": "11380.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We do however still run tours year-round so we welcome applicants who want to continue into our low season and make a longer commitment .",
+        "entity_label": "KNG",
+        "qas_id": "11380.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Then take a look at this opportunity where you will cooperate closely with our sales transport and construction business our component designers and your dedicated colleagues!",
+        "entity_label": "SKL",
+        "qas_id": "10405.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Then take a look at this opportunity where you will cooperate closely with our sales transport and construction business our component designers and your dedicated colleagues!",
+        "entity_label": "KNG",
+        "qas_id": "10405.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "To convey our message we often use visual aids and tools which allows us to demonstrate in what ways new possible members can help the children .",
+        "entity_label": "SKL",
+        "qas_id": "10668.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "To convey our message we often use visual aids and tools which allows us to demonstrate in what ways new possible members can help the children .",
+        "entity_label": "KNG",
+        "qas_id": "10668.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "management/guides are on other off-site duties",
+        "entity_label": "SKL",
+        "qas_id": "11341.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "management/guides are on other off-site duties",
+        "entity_label": "KNG",
+        "qas_id": "11341.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Available to work during high season ( April/May-September); Prepared for a flexible working day .",
+        "entity_label": "SKL",
+        "qas_id": "11361.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Available to work during high season ( April/May-September); Prepared for a flexible working day .",
+        "entity_label": "KNG",
+        "qas_id": "11361.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Head of Solid Products Development Formulation Development <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> forms the bridge between our basic research and the production processes .",
+        "entity_label": "SKL",
+        "qas_id": "10512.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Head of Solid Products Development Formulation Development <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> <ORGANIZATION> forms the bridge between our basic research and the production processes .",
+        "entity_label": "KNG",
+        "qas_id": "10512.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This position will be based mainly at the <LOCATION> site .",
+        "entity_label": "SKL",
+        "qas_id": "10582.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "This position will be based mainly at the <LOCATION> site .",
+        "entity_label": "KNG",
+        "qas_id": "10582.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "An inspiring working atmosphere in a beautiful open office space with a spectacular view of the waterfront ( we support your relocation in case you don't live here yet ) Excellent equipment of your choice and access to the best tools available",
+        "entity_label": "SKL",
+        "qas_id": "10239.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "An inspiring working atmosphere in a beautiful open office space with a spectacular view of the waterfront ( we support your relocation in case you don't live here yet ) Excellent equipment of your choice and access to the best tools available",
+        "entity_label": "KNG",
+        "qas_id": "10239.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Application of S/TEM and EELS for atomic-resolution and in situ studies .",
+        "entity_label": "SKL",
+        "qas_id": "11423.0",
+        "end_position": [
+            10
+        ],
+        "span_position": [
+            "0;10"
+        ],
+        "start_position": [
+            0
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Application of S/TEM and EELS for atomic-resolution and in situ studies .",
+        "entity_label": "KNG",
+        "qas_id": "11423.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "As Associate Manager you will be responsible for daily and professional leadership of 26 committed employees in the production team which primarily consists of hourly-paid employees .",
+        "entity_label": "SKL",
+        "qas_id": "10848.0",
+        "end_position": [
+            11
+        ],
+        "span_position": [
+            "10;11"
+        ],
+        "start_position": [
+            10
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "As Associate Manager you will be responsible for daily and professional leadership of 26 committed employees in the production team which primarily consists of hourly-paid employees .",
+        "entity_label": "KNG",
+        "qas_id": "10848.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In case of an interview you will be asked to provide a copy of your criminal record .",
+        "entity_label": "SKL",
+        "qas_id": "10831.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In case of an interview you will be asked to provide a copy of your criminal record .",
+        "entity_label": "KNG",
+        "qas_id": "10831.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The project will be related to the question how relatively few kinases in bacteria can control the phosphorylation state of a large number of substrate proteins .",
+        "entity_label": "SKL",
+        "qas_id": "10361.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The project will be related to the question how relatively few kinases in bacteria can control the phosphorylation state of a large number of substrate proteins .",
+        "entity_label": "KNG",
+        "qas_id": "10361.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The successful candidate has substantial teaching experience and ideally in research management for example Ph.D .",
+        "entity_label": "SKL",
+        "qas_id": "11276.0",
+        "end_position": [
+            5
+        ],
+        "span_position": [
+            "5;5"
+        ],
+        "start_position": [
+            5
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The successful candidate has substantial teaching experience and ideally in research management for example Ph.D .",
+        "entity_label": "KNG",
+        "qas_id": "11276.1",
+        "end_position": [
+            11
+        ],
+        "span_position": [
+            "10;11"
+        ],
+        "start_position": [
+            10
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The candidates shortlisted for such an assessment will be notified about the composition of the assessment committee .",
+        "entity_label": "SKL",
+        "qas_id": "11313.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The candidates shortlisted for such an assessment will be notified about the composition of the assessment committee .",
+        "entity_label": "KNG",
+        "qas_id": "11313.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Your work will have a true impact on <ORGANIZATION> <ORGANIZATION> future success .",
+        "entity_label": "SKL",
+        "qas_id": "11098.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Your work will have a true impact on <ORGANIZATION> <ORGANIZATION> future success .",
+        "entity_label": "KNG",
+        "qas_id": "11098.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In this role you\u0092ll work closely with developers designers and marketers who are building our brand and shaping the visual identity of our company .",
+        "entity_label": "SKL",
+        "qas_id": "10492.0",
+        "end_position": [
+            10
+        ],
+        "span_position": [
+            "4;10"
+        ],
+        "start_position": [
+            4
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In this role you\u0092ll work closely with developers designers and marketers who are building our brand and shaping the visual identity of our company .",
+        "entity_label": "KNG",
+        "qas_id": "10492.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In <LOCATION> the clinic offers 24-hour surgery gynaecology and obstetrics as well as paediatrics including a neonatal unit .",
+        "entity_label": "SKL",
+        "qas_id": "10597.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "In <LOCATION> the clinic offers 24-hour surgery gynaecology and obstetrics as well as paediatrics including a neonatal unit .",
+        "entity_label": "KNG",
+        "qas_id": "10597.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We are looking for a Head of Digital Supply Chain Community who can lead and implement an aligned strategy globally .",
+        "entity_label": "SKL",
+        "qas_id": "10736.0",
+        "end_position": [
+            18
+        ],
+        "span_position": [
+            "13;18"
+        ],
+        "start_position": [
+            13
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "We are looking for a Head of Digital Supply Chain Community who can lead and implement an aligned strategy globally .",
+        "entity_label": "KNG",
+        "qas_id": "10736.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Have we not answered all of your questions?",
+        "entity_label": "SKL",
+        "qas_id": "10945.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Have we not answered all of your questions?",
+        "entity_label": "KNG",
+        "qas_id": "10945.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Applications must contain all materials to be given consideration .",
+        "entity_label": "SKL",
+        "qas_id": "10390.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Applications must contain all materials to be given consideration .",
+        "entity_label": "KNG",
+        "qas_id": "10390.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Your competences include that you are newly graduated or have a few years of experience have a degree in business economics maths or a similar discipline have a desire to learn and develop are proactive commercially astute and have a problem-solving attitude are a team player and thrive in an international environment are a good communicator who speaks and writes English fluently .",
+        "entity_label": "SKL",
+        "qas_id": "10758.0",
+        "end_position": [
+            32,
+            34,
+            36,
+            41,
+            45,
+            51,
+            55
+        ],
+        "span_position": [
+            "28;32",
+            "34;34",
+            "35;36",
+            "40;41",
+            "44;45",
+            "47;51",
+            "55;55"
+        ],
+        "start_position": [
+            28,
+            34,
+            35,
+            40,
+            44,
+            47,
+            55
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Your competences include that you are newly graduated or have a few years of experience have a degree in business economics maths or a similar discipline have a desire to learn and develop are proactive commercially astute and have a problem-solving attitude are a team player and thrive in an international environment are a good communicator who speaks and writes English fluently .",
+        "entity_label": "KNG",
+        "qas_id": "10758.1",
+        "end_position": [
+            19,
+            20,
+            21,
+            60
+        ],
+        "span_position": [
+            "19;19",
+            "20;20",
+            "21;21",
+            "60;60"
+        ],
+        "start_position": [
+            19,
+            20,
+            21,
+            60
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<LOCATION> to larger cities .",
+        "entity_label": "SKL",
+        "qas_id": "11483.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "<LOCATION> to larger cities .",
+        "entity_label": "KNG",
+        "qas_id": "11483.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Salary and terms of employment comply with the collective agreement for consultants/registered medical specialists .",
+        "entity_label": "SKL",
+        "qas_id": "10613.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Salary and terms of employment comply with the collective agreement for consultants/registered medical specialists .",
+        "entity_label": "KNG",
+        "qas_id": "10613.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will be actively embracing frequent delivery end-to-end application ownership and lean/agile principles .",
+        "entity_label": "SKL",
+        "qas_id": "11041.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You will be actively embracing frequent delivery end-to-end application ownership and lean/agile principles .",
+        "entity_label": "KNG",
+        "qas_id": "11041.1",
+        "end_position": [
+            6,
+            9,
+            12
+        ],
+        "span_position": [
+            "5;6",
+            "7;9",
+            "11;12"
+        ],
+        "start_position": [
+            5,
+            7,
+            11
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If you no not have a teaching plan or 5 publications please upload blank documents in these boxes .",
+        "entity_label": "SKL",
+        "qas_id": "11530.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "If you no not have a teaching plan or 5 publications please upload blank documents in these boxes .",
+        "entity_label": "KNG",
+        "qas_id": "11530.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Occasional travel activities are to be expected in connection with this position .",
+        "entity_label": "SKL",
+        "qas_id": "10430.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Occasional travel activities are to be expected in connection with this position .",
+        "entity_label": "KNG",
+        "qas_id": "10430.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Application deadline: ASAP .",
+        "entity_label": "SKL",
+        "qas_id": "10981.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Application deadline: ASAP .",
+        "entity_label": "KNG",
+        "qas_id": "10981.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "By combining our knowledge about enzymes powder processes and customer requirements we develop enzyme powders of high quality .",
+        "entity_label": "SKL",
+        "qas_id": "10515.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "By combining our knowledge about enzymes powder processes and customer requirements we develop enzyme powders of high quality .",
+        "entity_label": "KNG",
+        "qas_id": "10515.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Information about the Department can be found at: <CONTACT> .",
+        "entity_label": "SKL",
+        "qas_id": "11513.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Information about the Department can be found at: <CONTACT> .",
+        "entity_label": "KNG",
+        "qas_id": "11513.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "It is important you pride yourself in providing a first-class experience as we have a high standard at our company .",
+        "entity_label": "SKL",
+        "qas_id": "11356.0",
+        "end_position": [
+            10
+        ],
+        "span_position": [
+            "7;10"
+        ],
+        "start_position": [
+            7
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "It is important you pride yourself in providing a first-class experience as we have a high standard at our company .",
+        "entity_label": "KNG",
+        "qas_id": "11356.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "What you'll be working on\u2026",
+        "entity_label": "SKL",
+        "qas_id": "10222.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "What you'll be working on\u2026",
+        "entity_label": "KNG",
+        "qas_id": "10222.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "subtilis would be advantageous but not a requirement .",
+        "entity_label": "SKL",
+        "qas_id": "10375.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "subtilis would be advantageous but not a requirement .",
+        "entity_label": "KNG",
+        "qas_id": "10375.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The position is placed in salary group 3 or 4 depending on qualifications and experience .",
+        "entity_label": "SKL",
+        "qas_id": "10898.0",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "The position is placed in salary group 3 or 4 depending on qualifications and experience .",
+        "entity_label": "KNG",
+        "qas_id": "10898.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can read the Latin alphabet",
+        "entity_label": "SKL",
+        "qas_id": "10716.0",
+        "end_position": [
+            5
+        ],
+        "span_position": [
+            "2;5"
+        ],
+        "start_position": [
+            2
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "You can read the Latin alphabet",
+        "entity_label": "KNG",
+        "qas_id": "10716.1",
+        "end_position": [],
+        "span_position": [],
+        "start_position": [],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Here you will work on new algorithm concepts being part of our expert team around directionality/beam-forming and finally do trimming and verification of various audio algorithms in projects with respect to the final sound quality target of the product .",
+        "entity_label": "SKL",
+        "qas_id": "11444.0",
+        "end_position": [
+            7,
+            25
+        ],
+        "span_position": [
+            "3;7",
+            "19;25"
+        ],
+        "start_position": [
+            3,
+            19
+        ],
+        "source": "house",
+        "part": "test"
+    },
+    {
+        "context": "Here you will work on new algorithm concepts being part of our expert team around directionality/beam-forming and finally do trimming and verification of various audio algorithms in projects with respect to the final sound quality target of the product .",
+        "entity_label": "KNG",
+        "qas_id": "11444.1",
+        "end_position": [
+            15
+        ],
+        "span_position": [
+            "15;15"
+        ],
+        "start_position": [
+            15
+        ],
+        "source": "house",
+        "part": "test"
+    }
+]
